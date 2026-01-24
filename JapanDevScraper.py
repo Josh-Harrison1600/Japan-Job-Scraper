@@ -9,6 +9,8 @@ soup = BeautifulSoup(page.content, "html.parser")
 
 job_posting_count = 0
 compatiable_jobs = []
+compatiable_jobs_count = 0
+pages_to_scrape = 2
 
 tolerable_language_level = [
     "japanese_level_not_required",
@@ -29,7 +31,41 @@ headers = {
     "X-Meilisearch-Client": "Meilisearch instant-meilisearch (v0.20.1) ; Meilisearch JavaScript (v0.42.0)"
 }
 
-for page_number in range(99):
+def _check_seniority_level(level_value):
+    if level_value == "seniority_level_junior":
+        return "Junior"
+    elif level_value == "seniority_level_mid_level":
+        return"Intermediate"
+    return "Unknown"
+        
+def _check_language_level(language_value):
+    if language_value == "japanese_level_not_required":
+        return "No Japanese"
+    elif language_value == "japanese_level_conversational":
+        return "Conversational Japanese"
+    return "Unknown"
+        
+def _startup_status(startup_status):
+    if startup_status is False:
+        return "No"
+    elif startup_status is True:
+        return "Yes"
+    return "Unknown"
+        
+def _get_job_links(job_data):
+    formatted_info = job_data.get("_formatted", {})
+    formatted_slug = formatted_info.get("slug")
+    
+    company_info = formatted_info.get("company", {})
+    company_slug = company_info.get("slug")
+    
+    if formatted_info and company_info: 
+        return f"https://japan-dev.com/jobs/{company_slug}/{formatted_slug}"
+    
+    return "No Link"
+    
+    
+for page_number in range(pages_to_scrape):
     current_offset = page_number * 21
     
     payload = {
@@ -39,7 +75,8 @@ for page_number in range(99):
                 "q": "",
                 "limit": 21,
                 "offset": current_offset,
-                "facets": ["location", "job_type_names"] 
+                "facets": ["location", "job_type_names"],
+                "attributesToHighlight":["*"]
             }
         ]
     }
@@ -60,11 +97,18 @@ for page_number in range(99):
             lang = job.get("japanese_level_enum")
             level = job.get("seniority_level")
             title = job.get("title")
-            visa = job.get("sponsors_visas")
+            startup = job.get("company_is_startup")
             
-            if (lang in tolerable_language_level) and (level in tolerable_experience_level) and (visa == visa_sponsorship):
-                job_info = f"Title: {title:<70} | Level: {level:<30} | Language: {lang:<30}"
+            if (lang in tolerable_language_level) and (level in tolerable_experience_level):
+                
+                formatted_language = _check_language_level(lang)
+                formatted_level = _check_seniority_level(level)
+                is_startup = _startup_status(startup)
+                job_url = _get_job_links(job)
+                    
+                job_info = f"Title: {title:<70} Level: {formatted_level:<30} Language: {formatted_language:<30} Startup: {is_startup:<10} URL: {job_url}"
                 compatiable_jobs.append(job_info)
+                compatiable_jobs_count += 1
             
             
             array_output = "\n".join((compatiable_jobs))
@@ -90,7 +134,7 @@ print("----------------------------------")
 
 
 print("----------------------------------")
-print("Compatiable Jobs: ")
+print("Total Compatiable Jobs Found: ", compatiable_jobs_count)
 print(" ")
 print(array_output)
 print("----------------------------------")
