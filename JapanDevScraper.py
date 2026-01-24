@@ -10,7 +10,7 @@ soup = BeautifulSoup(page.content, "html.parser")
 job_posting_count = 0
 compatiable_jobs = []
 compatiable_jobs_count = 0
-pages_to_scrape = 2
+pages_to_scrape = 99
 
 tolerable_language_level = [
     "japanese_level_not_required",
@@ -22,7 +22,15 @@ tolerable_experience_level = [
     "seniority_level_mid_level"
 ]
 
-visa_sponsorship = "sponsors_visas_yes"
+visa_sponsorship = [
+    "sponsors_visas_yes",
+    "sponsors_visas_no"
+]
+
+candidate_location = [
+    "candidate_location_japan_only",
+    "candidate_location_anywhere"
+]
 
 headers = {
     "Content-Type": "application/json",
@@ -43,6 +51,20 @@ def _check_language_level(language_value):
         return "No Japanese"
     elif language_value == "japanese_level_conversational":
         return "Conversational Japanese"
+    return "Unknown"
+        
+def _check_visa_sponsorship(sponsorship_value):
+    if sponsorship_value == "sponsors_visas_yes":
+        return "Yes"
+    elif sponsorship_value == "sponsors_visas_no":
+        return "No"
+    return "Unknown"
+
+def _check_candidate_location(location_value):
+    if location_value == "candidate_location_japan_only":
+        return "Japan Only"
+    elif location_value == "candidate_location_anywhere":
+        return "Anywhere"
     return "Unknown"
         
 def _startup_status(startup_status):
@@ -97,16 +119,29 @@ for page_number in range(pages_to_scrape):
             lang = job.get("japanese_level_enum")
             level = job.get("seniority_level")
             title = job.get("title")
+            visa = job.get("sponsors_visas")
+            location = job.get("candidate_location")
             startup = job.get("company_is_startup")
             
             if (lang in tolerable_language_level) and (level in tolerable_experience_level):
                 
                 formatted_language = _check_language_level(lang)
                 formatted_level = _check_seniority_level(level)
+                will_sponsor = _check_visa_sponsorship(visa)
+                can_apply = _check_candidate_location(location)
+                
+                #Only add to compatability list if they offer sponsorship
+                if will_sponsor == "No":
+                    continue
+                
+                ##Only add to compatability list if location is anywhere
+                if can_apply == "Japan Only":
+                    continue
+                
                 is_startup = _startup_status(startup)
                 job_url = _get_job_links(job)
                     
-                job_info = f"Title: {title:<70} Level: {formatted_level:<30} Language: {formatted_language:<30} Startup: {is_startup:<10} URL: {job_url}"
+                job_info = f"Title: {title:<70} Level: {formatted_level:<30} Language: {formatted_language:<30} Startup: {is_startup:<10} URL: {job_url:<100}"
                 compatiable_jobs.append(job_info)
                 compatiable_jobs_count += 1
             
