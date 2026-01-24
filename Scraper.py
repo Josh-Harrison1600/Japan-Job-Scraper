@@ -2,16 +2,25 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-japanDevUrl = "https://japan-dev.com/jobs"
-apiUrl = "https://meili.japan-dev.com/multi-search"
-page = requests.get(japanDevUrl)
+japan_dev_url = "https://japan-dev.com/jobs"
+api_url = "https://meili.japan-dev.com/multi-search"
+page = requests.get(japan_dev_url)
 soup = BeautifulSoup(page.content, "html.parser")
 
-jobPostings = 0
-japaneseOnly = 0
-yesVisa = 0
-noVisa = 0
+job_posting_count = 0
+compatiable_jobs = []
 
+tolerable_language_level = [
+    "japanese_level_not_required",
+    "japanese_level_conversational"
+]
+
+tolerable_experience_level = [
+    "seniority_level_junior",
+    "seniority_level_mid_level"
+]
+
+visa_sponsorship = "sponsors_visas_yes"
 
 headers = {
     "Content-Type": "application/json",
@@ -35,7 +44,7 @@ for page_number in range(99):
         ]
     }
     
-    response = requests.post(apiUrl, json=payload, headers=headers)
+    response = requests.post(api_url, json=payload, headers=headers)
     
     #200 = ok
     if response.status_code == 200:
@@ -44,19 +53,21 @@ for page_number in range(99):
         
         #break if at the end of job postings
         if not jobs:
-            print("No more jobs found")
             break
         
         for job in jobs:
             
-            if(job["is_japanese_only"] == True):
-                japaneseOnly += 1
+            lang = job.get("japanese_level_enum")
+            level = job.get("seniority_level")
+            title = job.get("title")
+            visa = job.get("sponsors_visas")
             
-            if(job["sponsors_visas"] == "sponsors_visas_yes"):
-                yesVisa += 1
-                
-            if(job["sponsors_visas"] == "sponsors_visas_no"):
-                noVisa += 1
+            if (lang in tolerable_language_level) and (level in tolerable_experience_level) and (visa == visa_sponsorship):
+                job_info = f"Title: {title:<70} | Level: {level:<30} | Language: {lang:<30}"
+                compatiable_jobs.append(job_info)
+            
+            
+            array_output = "\n".join((compatiable_jobs))
             
             print(" ")
             print("--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
@@ -65,7 +76,7 @@ for page_number in range(99):
             print("Application URL:   ", job["application_url"])
             print("--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
             print(" ")
-            jobPostings += 1
+            job_posting_count += 1
         time.sleep(1)
     else:
         print("failed to get data: ", response.status_code)
@@ -74,8 +85,12 @@ for page_number in range(99):
 
 
 print("----------------------------------")
-print("total job postings: ", jobPostings)
-print("Japanese only companies: ", japaneseOnly)
-print("Companies offering visa: ", yesVisa)
-print("Companies NOT offering visa: ", noVisa)
+print("Total Job Postings: ", job_posting_count)
+print("----------------------------------")
+
+
+print("----------------------------------")
+print("Compatiable Jobs: ")
+print(" ")
+print(array_output)
 print("----------------------------------")
