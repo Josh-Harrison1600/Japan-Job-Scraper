@@ -5,7 +5,9 @@ TOLERABLE_LANGUAGE_LEVEL = [
 
 TOLERABLE_EXPERIENCE_LEVEL = [
     "seniority_level_junior",
-    "seniority_level_mid_level"
+    "seniority_level_mid_level",
+    "seniority_level_new_grad",
+    "seniority_level_unknown"
 ]
 
 HEADERS = {

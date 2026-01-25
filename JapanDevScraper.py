@@ -12,7 +12,7 @@ soup = BeautifulSoup(page.content, "html.parser")
 job_posting_count = 0
 compatiable_jobs = []
 compatiable_jobs_count = 0
-pages_to_scrape = 2
+pages_to_scrape = 99
 filename = "JapanDevJobs.json"
 
 
