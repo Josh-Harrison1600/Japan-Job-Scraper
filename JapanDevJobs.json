@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Founding Designer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/ikhor/kamikai-founding-designer-ymsp9d"
+    },
+    {
+        "Title": "Security Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/zeals/zeals-security-engineer-9u6uc2"
+    },
+    {
+        "Title": "Backend Developer",
+        "Level": "seniority_level_junior",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/jamm/jamm-backend-developer-n7o3sk"
+    },
+    {
+        "Title": "Senior Software Engineer (Partner Product Development Department)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-senior-software-engineer-partner-product-development-department-tokyo-fzwt1h"
+    },
+    {
+        "Title": "Frontend Engineer (Android)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/mujin/mujin-frontend-engineerandroid-heavy-react-secondary-68n4i2"
+    },
+    {
+        "Title": "Growth Engineer",
+        "Level": "seniority_level_junior",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r"
+    },
+    {
+        "Title": "Software Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/axelspace/axelspace-software-engineer---japandev-iyrajn"
+    },
+    {
+        "Title": "Security Specialist (CISO Office - Tokyo)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-security-specialist-ciso-office-tokyojapandev-o27pc7"
+    }
+]

@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import time
+import json
 
 japan_dev_url = "https://japan-dev.com/jobs"
 api_url = "https://meili.japan-dev.com/multi-search"
@@ -9,8 +10,10 @@ soup = BeautifulSoup(page.content, "html.parser")
 
 job_posting_count = 0
 compatiable_jobs = []
+jobs_json_list = []
 compatiable_jobs_count = 0
-pages_to_scrape = 99
+pages_to_scrape = 2
+filename = "JapanDevJobs.json"
 
 tolerable_language_level = [
     "japanese_level_not_required",
@@ -141,12 +144,23 @@ for page_number in range(pages_to_scrape):
                 is_startup = _startup_status(startup)
                 job_url = _get_job_links(job)
                     
+                #work on storing this in dict
                 job_info = f"Title: {title:<70} Level: {formatted_level:<30} Language: {formatted_language:<30} Startup: {is_startup:<10} URL: {job_url:<100}"
+                job_entry = {"Title": title, "Level": level, "Language": lang, "URL": job_url}
+                jobs_json_list.append(job_entry)
                 compatiable_jobs.append(job_info)
                 compatiable_jobs_count += 1
             
             
             array_output = "\n".join((compatiable_jobs))
+            
+            #Store the results in json
+            try:
+                with open(filename, 'w', encoding="utf-8") as file:
+                    json.dump(jobs_json_list, file, indent=4)
+                print(f"Successfully wrote job info to {filename}")
+            except IOError as e:
+                print(f"Error writing to {filename}: {e}")
             
             print(" ")
             print("--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
