@@ -10,7 +10,6 @@ soup = BeautifulSoup(page.content, "html.parser")
 
 job_posting_count = 0
 compatiable_jobs = []
-jobs_json_list = []
 compatiable_jobs_count = 0
 pages_to_scrape = 2
 filename = "JapanDevJobs.json"
@@ -144,30 +143,26 @@ for page_number in range(pages_to_scrape):
                 is_startup = _startup_status(startup)
                 job_url = _get_job_links(job)
                     
-                #work on storing this in dict
                 job_info = f"Title: {title:<70} Level: {formatted_level:<30} Language: {formatted_language:<30} Startup: {is_startup:<10} URL: {job_url:<100}"
                 job_entry = {"Title": title, "Level": level, "Language": lang, "URL": job_url}
-                jobs_json_list.append(job_entry)
-                compatiable_jobs.append(job_info)
+                compatiable_jobs.append(job_entry)
                 compatiable_jobs_count += 1
             
-            
-            array_output = "\n".join((compatiable_jobs))
             
             #Store the results in json
             try:
                 with open(filename, 'w', encoding="utf-8") as file:
-                    json.dump(jobs_json_list, file, indent=4)
-                print(f"Successfully wrote job info to {filename}")
+                    json.dump(compatiable_jobs, file, indent=4)
             except IOError as e:
                 print(f"Error writing to {filename}: {e}")
+                break
             
             print(" ")
-            print("--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+            print("----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
             print("Job Title:         ", job['title'])
             print("Sponsors Visas?    ", job["sponsors_visas"])
             print("Application URL:   ", job["application_url"])
-            print("--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+            print("----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
             print(" ")
             job_posting_count += 1
         time.sleep(1)
@@ -177,13 +172,7 @@ for page_number in range(pages_to_scrape):
         break
 
 
-print("----------------------------------")
+print("-----------------RESULTS-----------------")
 print("Total Job Postings: ", job_posting_count)
-print("----------------------------------")
-
-
-print("----------------------------------")
 print("Total Compatiable Jobs Found: ", compatiable_jobs_count)
-print(" ")
-print(array_output)
-print("----------------------------------")
+print("-----------------------------------------")
