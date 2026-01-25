@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import json
+import JapanDevSettings
 
 japan_dev_url = "https://japan-dev.com/jobs"
 api_url = "https://meili.japan-dev.com/multi-search"
@@ -14,32 +15,6 @@ compatiable_jobs_count = 0
 pages_to_scrape = 2
 filename = "JapanDevJobs.json"
 
-tolerable_language_level = [
-    "japanese_level_not_required",
-    "japanese_level_conversational"
-]
-
-tolerable_experience_level = [
-    "seniority_level_junior",
-    "seniority_level_mid_level"
-]
-
-visa_sponsorship = [
-    "sponsors_visas_yes",
-    "sponsors_visas_no"
-]
-
-candidate_location = [
-    "candidate_location_japan_only",
-    "candidate_location_anywhere"
-]
-
-headers = {
-    "Content-Type": "application/json",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Authorization": "Bearer 3838486cea4344beaef2c4c5979be249fc5736ea4aab99fab193b5e7f540ffae",
-    "X-Meilisearch-Client": "Meilisearch instant-meilisearch (v0.20.1) ; Meilisearch JavaScript (v0.42.0)"
-}
 
 def _check_seniority_level(level_value):
     if level_value == "seniority_level_junior":
@@ -52,6 +27,7 @@ def _check_language_level(language_value):
     if language_value == "japanese_level_not_required":
         return "No Japanese"
     elif language_value == "japanese_level_conversational":
+        
         return "Conversational Japanese"
     return "Unknown"
         
@@ -88,24 +64,11 @@ def _get_job_links(job_data):
     
     return "No Link"
     
-    
+
 for page_number in range(pages_to_scrape):
     current_offset = page_number * 21
-    
-    payload = {
-        "queries": [
-            {
-                "indexUid": "Job_production",
-                "q": "",
-                "limit": 21,
-                "offset": current_offset,
-                "facets": ["location", "job_type_names"],
-                "attributesToHighlight":["*"]
-            }
-        ]
-    }
-    
-    response = requests.post(api_url, json=payload, headers=headers)
+    payload = JapanDevSettings._main_payload(current_offset)
+    response = requests.post(api_url, json=payload, headers=JapanDevSettings.HEADERS)
     
     #200 = ok
     if response.status_code == 200:
@@ -118,6 +81,7 @@ for page_number in range(pages_to_scrape):
         
         for job in jobs:
             
+            #Define the variables that are used in the JSON call on the site
             lang = job.get("japanese_level_enum")
             level = job.get("seniority_level")
             title = job.get("title")
@@ -125,7 +89,7 @@ for page_number in range(pages_to_scrape):
             location = job.get("candidate_location")
             startup = job.get("company_is_startup")
             
-            if (lang in tolerable_language_level) and (level in tolerable_experience_level):
+            if (lang in JapanDevSettings.TOLERABLE_LANGUAGE_LEVEL) and (level in JapanDevSettings.TOLERABLE_EXPERIENCE_LEVEL):
                 
                 formatted_language = _check_language_level(lang)
                 formatted_level = _check_seniority_level(level)
@@ -138,7 +102,8 @@ for page_number in range(pages_to_scrape):
                 
                 ##Only add to compatability list if location is anywhere
                 if can_apply == "Japan Only":
-                    continue
+                    continue    
+                
                 
                 is_startup = _startup_status(startup)
                 job_url = _get_job_links(job)
@@ -147,15 +112,6 @@ for page_number in range(pages_to_scrape):
                 job_entry = {"Title": title, "Level": level, "Language": lang, "URL": job_url}
                 compatiable_jobs.append(job_entry)
                 compatiable_jobs_count += 1
-            
-            
-            #Store the results in json
-            try:
-                with open(filename, 'w', encoding="utf-8") as file:
-                    json.dump(compatiable_jobs, file, indent=4)
-            except IOError as e:
-                print(f"Error writing to {filename}: {e}")
-                break
             
             print(" ")
             print("----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
@@ -171,6 +127,13 @@ for page_number in range(pages_to_scrape):
         print(response.text)
         break
 
+#Store the results in json
+try:
+    with open(filename, 'w', encoding="utf-8") as file:
+        json.dump(compatiable_jobs, file, indent=4)
+        print(f"Saved results to {filename}")
+except IOError as e:
+    print(f"Error writing to {filename}: {e}")
 
 print("-----------------RESULTS-----------------")
 print("Total Job Postings: ", job_posting_count)
