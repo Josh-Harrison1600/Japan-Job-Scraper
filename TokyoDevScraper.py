@@ -1,11 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 
 HOME_URL = "https://www.tokyodev.com"
 JOBS_URL = "https://www.tokyodev.com/jobs"
 page = requests.get(JOBS_URL)
 
 company_count = 0
+compatible_job_count = 0
+incompatible_job_count = 0
+compatible_jobs = []
 
 soup = BeautifulSoup(page.content, "html.parser")
 root_job_element = soup.find("ul", class_="relative list-inside")
@@ -68,6 +72,21 @@ for job_info in root_job_element.find_all("li"):
         safety_check_no_output(no_remote)
         print('\n')
 
+        if japanese_required or japan_only:
+            compatible = False
+            incompatible_job_count += 1
+        elif not japanese_required and not japan_only:
+            compatible = True
+            compatible_job_count += 1
+            job_entry = {"Title": job_title.text, "URL": HOME_URL + job_url['href']}
+            compatible_jobs.append(job_entry)
+            
+        if compatible:
+            try:
+                with open('TokyoDevJobs.json', 'w') as f:
+                    json.dump(compatible_jobs, f, indent=4)
+            except IOError as e:
+                print(f"Error writing to file: {e}")
     
     # Get all the job links from the company
     print('\n'"Job postings for this company:")
@@ -79,5 +98,7 @@ for job_info in root_job_element.find_all("li"):
     print(" ")
     print("---------------------- Company ", company_count, "----------------------")
     print(" ")
-    
+        
 print("counted ", company_count, " companies")
+print("total compatible jobs ", compatible_job_count)
+print("total incompatible jobs", incompatible_job_count)
