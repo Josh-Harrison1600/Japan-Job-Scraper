@@ -104,11 +104,15 @@ for page_number in range(pages_to_scrape):
                 if can_apply == "Japan Only":
                     continue    
                 
-                
                 is_startup = _startup_status(startup)
                 job_url = _get_job_links(job)
+                
+                with open("JapanDevJobs.json") as f:
+                    d = json.load(f)
+                    if f == job_url:
+                        print("duplicate job detected")
+                        continue
                     
-                job_info = f"Title: {title:<70} Level: {formatted_level:<30} Language: {formatted_language:<30} Startup: {is_startup:<10} URL: {job_url:<100}"
                 job_entry = {"Title": title, "Level": level, "Language": lang, "URL": job_url}
                 compatiable_jobs.append(job_entry)
                 compatiable_jobs_count += 1
