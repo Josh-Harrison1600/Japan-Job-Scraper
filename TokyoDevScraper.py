@@ -1,8 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 
-URL = "https://www.tokyodev.com/jobs"
-page = requests.get(URL)
+HOME_URL = "https://www.tokyodev.com"
+JOBS_URL = "https://www.tokyodev.com/jobs"
+page = requests.get(JOBS_URL)
 
 job_posting_count = 0
 
@@ -53,10 +54,11 @@ for job_info in root_job_element.find_all("li"):
     no_remote = job_info.find("a", href="/jobs/no-remote")
     safety_check_no_output(no_remote)
     
+    print('\n'"Job postings for this company:")
+    for i in job_info.find_all("a", class_="font-bold hover:text-indigo-600 dark:hover:text-indigo-400", href=True):    
+        print("    ", HOME_URL + i['href'])
     
-    
-    
-    
+
     job_posting_count += 1
     print(" ")
     print("---------------------- Job ", job_posting_count, "----------------------")
