@@ -139,6 +139,20 @@ try:
 except IOError as e:
     print(f"Error writing to {filename}: {e}")
 
+# Load old jobs
+try:
+    with open('JapanDevJobs.json', 'r') as f:
+        old_jobs = json.load(f)
+        old_urls = {job['URL'] for job in old_jobs}
+except FileNotFoundError:
+    old_urls = set()
+    
+# Identify new jobs
+new_jobs = [job for job in compatiable_jobs if job['URL'] not in old_urls]
+
+if new_jobs:
+    print(f"Found {len(new_jobs)} new postings")
+
 print("-----------------RESULTS-----------------")
 print("Total Job Postings: ", job_posting_count)
 print("Total Compatiable Jobs Found: ", compatiable_jobs_count)

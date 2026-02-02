@@ -9,7 +9,7 @@ page = requests.get(JOBS_URL)
 company_count = 0
 compatible_job_count = 0
 incompatible_job_count = 0
-compatible_jobs = []
+compatiable_jobs = []
 compatible = bool
 
 soup = BeautifulSoup(page.content, "html.parser")
@@ -86,12 +86,12 @@ for job_info in root_job_element.find_all("li"):
             compatible = True
             compatible_job_count += 1
             job_entry = {"Title": job_title.text.strip(), "URL": HOME_URL + job_url['href']}
-            compatible_jobs.append(job_entry)
+            compatiable_jobs.append(job_entry)
             
         if compatible:
             try:
                 with open('TokyoDevJobs.json', 'w') as f:
-                    json.dump(compatible_jobs, f, indent=4)
+                    json.dump(compatiable_jobs, f, indent=4)
             except IOError as e:
                 print(f"Error writing to file: {e}")    
 
@@ -103,3 +103,17 @@ for job_info in root_job_element.find_all("li"):
 print("counted ", company_count, " companies")
 print("total compatible jobs ", compatible_job_count)
 print("total incompatible jobs", incompatible_job_count)
+
+# Load old jobs
+try:
+    with open('TokyoDevJobs.json', 'r') as f:
+        old_jobs = json.load(f)
+        old_urls = {job['URL'] for job in old_jobs}
+except FileNotFoundError:
+    old_urls = set()
+    
+# Identify new jobs
+new_jobs = [job for job in compatiable_jobs if job['URL'] not in old_urls]
+
+if new_jobs:
+    print(f"Found {len(new_jobs)} new postings")
