@@ -10,6 +10,7 @@ company_count = 0
 compatible_job_count = 0
 incompatible_job_count = 0
 compatible_jobs = []
+compatible = bool
 
 soup = BeautifulSoup(page.content, "html.parser")
 root_job_element = soup.find("ul", class_="relative list-inside")
@@ -32,6 +33,7 @@ def url_safety_check(element, URL):
     elif not element:
         print("No url found for this job")
         
+    
 # List through the job names
 for job_info in root_job_element.find_all("li"):
     
@@ -40,6 +42,7 @@ for job_info in root_job_element.find_all("li"):
 
     print('\n')
     for i in job_info.find_all("div", class_="relative first:mt-0 mt-4", attrs={"data-collapsable-list-target": "item"}):
+        compatible = False
         
         job_title = i.find("h4", class_="text-lg font-bold mb-1")
         safety_check(job_title, "job title")
@@ -52,9 +55,13 @@ for job_info in root_job_element.find_all("li"):
 
         no_japanese_required = i.find("a", href="/jobs/no-japanese-required")
         safety_check_no_output(no_japanese_required)
-            
+        no_japanese = no_japanese_required and no_japanese_required.text.strip() == "No Japanese required"
+         
         japanese_required = i.find("a", href="/jobs/japanese-required")
         safety_check_no_output(japanese_required)
+        fluent_japanese = japanese_required and japanese_required.text.strip() in ["Business Japanese", "Fluent Japanese"]
+        is_conversational = japanese_required and japanese_required.text.strip() == "Conversational Japanese"
+        basic_japanese = japanese_required and japanese_required.text.strip() == "Basic Japanese"
         
         apply_abroad = i.find("a", href="/jobs/apply-from-abroad") 
         safety_check_no_output(apply_abroad)
@@ -72,13 +79,13 @@ for job_info in root_job_element.find_all("li"):
         safety_check_no_output(no_remote)
         print('\n')
 
-        if japanese_required or japan_only:
+        if fluent_japanese or japan_only:
             compatible = False
             incompatible_job_count += 1
-        elif not japanese_required and not japan_only:
+        elif (no_japanese or basic_japanese or is_conversational) and not japan_only:
             compatible = True
             compatible_job_count += 1
-            job_entry = {"Title": job_title.text, "URL": HOME_URL + job_url['href']}
+            job_entry = {"Title": job_title.text.strip(), "URL": HOME_URL + job_url['href']}
             compatible_jobs.append(job_entry)
             
         if compatible:
@@ -86,13 +93,7 @@ for job_info in root_job_element.find_all("li"):
                 with open('TokyoDevJobs.json', 'w') as f:
                     json.dump(compatible_jobs, f, indent=4)
             except IOError as e:
-                print(f"Error writing to file: {e}")
-    
-    # Get all the job links from the company
-    print('\n'"Job postings for this company:")
-    for j in job_info.find_all("a", class_="font-bold hover:text-indigo-600 dark:hover:text-indigo-400", href=True):    
-        print("    ", HOME_URL + j['href'])
-    
+                print(f"Error writing to file: {e}")    
 
     company_count += 1
     print(" ")
