@@ -28,7 +28,6 @@ MANIFEST
 scripts/
 Scripts/
 pyvenv.cfg
-JapanDevJobs.json
 
 # PyInstaller
 #   Usually these files are written by a python script from a template
