@@ -2,8 +2,6 @@ import smtplib
 import ssl
 from email.message import EmailMessage
 from dotenv import load_dotenv
-from TokyoDevScraper import new_jobs_tokyo_dev
-from JapanDevScraper import new_jobs_japan_dev
 import os
 
 load_dotenv()
