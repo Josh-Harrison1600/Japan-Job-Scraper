@@ -114,7 +114,9 @@ def tokyo_dev_scraper():
         old_urls = set()
         
     # Identify new jobs
-    new_jobs = [job for job in compatiable_jobs if job['URL'] not in old_urls]
+    new_jobs_tokyo_dev = [job for job in compatiable_jobs if job['URL'] not in old_urls]
 
-    if new_jobs:
-        print(f"Found {len(new_jobs)} new postings")
+    if new_jobs_tokyo_dev:
+        print(f"Found {len(new_jobs_tokyo_dev)} new postings")
+        
+    return new_jobs_tokyo_dev

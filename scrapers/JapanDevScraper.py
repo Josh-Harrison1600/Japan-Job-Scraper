@@ -148,12 +148,13 @@ def japan_dev_scraper():
         old_urls = set()
         
     # Identify new jobs
-    new_jobs = [job for job in compatiable_jobs if job['URL'] not in old_urls]
+    new_jobs_japan_dev = [job for job in compatiable_jobs if job['URL'] not in old_urls]
 
-    if new_jobs:
-        print(f"Found {len(new_jobs)} new postings")
+    if new_jobs_japan_dev:
+        print(f"Found {len(new_jobs_japan_dev)} new postings")
 
     print("-----------------RESULTS-----------------")
     print("Total Job Postings: ", job_posting_count)
     print("Total Compatiable Jobs Found: ", compatiable_jobs_count)
     print("-----------------------------------------")
+    return new_jobs_japan_dev
