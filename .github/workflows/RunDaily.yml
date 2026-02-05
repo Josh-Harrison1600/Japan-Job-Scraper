@@ -13,7 +13,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: setup python
         uses: actions/setup-python@v2
         with:
@@ -23,16 +22,13 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
-
-      - name: run tokyodev scraper
+      - name: run the scrapers and send the email if new jobs are found
         run: |
-          python TokyoDevScraper.py
-
-      - name: run japandev scraper
-        run: |
-          python JapanDevScraper.py
+          python emailer/SendEmail.py
 
       - name: save results of the scrapers
+        env:
+          APP_PASSWORD: ${{ secrets.APP_PASSWORD }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
