@@ -1,11 +1,20 @@
 [
     {
+<<<<<<< Updated upstream
         "Title": "Product Designer",
         "URL": "https://www.tokyodev.com/companies/scene/jobs/product-designer"
     },
     {
         "Title": "Senior Full-Stack Software Engineer",
         "URL": "https://www.tokyodev.com/companies/visual-alpha/jobs/senior-full-stack-software-engineer"
+=======
+        "Title": "Full stack AI-engineer",
+        "URL": "https://www.tokyodev.com/companies/assethub/jobs/full-stack-ai-engineer"
+    },
+    {
+        "Title": "Applied LLM Researcher",
+        "URL": "https://www.tokyodev.com/companies/assethub/jobs/applied-llm-researcher"
+>>>>>>> Stashed changes
     },
     {
         "Title": "Engineering Manager, Business Platform Development Division, Tokyo",
@@ -42,10 +51,6 @@
     {
         "Title": "Senior Android Developer",
         "URL": "https://www.tokyodev.com/companies/komoju/jobs/senior-android-developer"
-    },
-    {
-        "Title": "Senior Software Engineer, Fraud Risk",
-        "URL": "https://www.tokyodev.com/companies/komoju/jobs/senior-software-engineer-fraud-risk"
     },
     {
         "Title": "Tech Lead, Backend-Focused Full-Stack (Global Product Team)",

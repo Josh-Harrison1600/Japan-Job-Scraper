@@ -1,5 +1,32 @@
 [
     {
+<<<<<<< Updated upstream
+=======
+        "Title": "Software x Discover Engineer",
+        "Level": "seniority_level_new_grad",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/labbase/labbase-software-x-discover-engineer-b19iq5"
+    },
+    {
+        "Title": "Senior Research X Discovery Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/labbase/labbase-senior-research-x-discovery-engineer-nuhe67"
+    },
+    {
+        "Title": "Cloud Platform Engineer (DB Specialist)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/paypay/paypay-cloud-platform-engineer-db-specialist-3ejfjx"
+    },
+    {
+        "Title": "C++ Developer (Analyst/Associate, Risk & Quant Analytics)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/polymer-capital/polymer-capital-c-developer-analystassociate-risk--quant-analytics-isd513"
+    },
+    {
+>>>>>>> Stashed changes
         "Title": "Robotics Algorithm Engineer (C++ / Optimization)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
