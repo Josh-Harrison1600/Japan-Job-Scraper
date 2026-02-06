@@ -26,7 +26,7 @@ jobs:
         env:
           APP_PASSWORD: ${{ secrets.APP_PASSWORD }}
         run: |
-          python Main.py
+          python -m Main.py
 
       - name: save results of the scrapers
         run: |
