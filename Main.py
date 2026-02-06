@@ -1,5 +1,5 @@
-from JapanDevScraper import japan_dev_scraper
-from TokyoDevScraper import tokyo_dev_scraper
+from scrapers.JapanDevScraper import japan_dev_scraper
+from scrapers.TokyoDevScraper import tokyo_dev_scraper
 from SendEmail import send_email
 
 japan_dev_jobs = japan_dev_scraper()
