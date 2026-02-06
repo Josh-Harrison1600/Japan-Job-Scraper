@@ -9,9 +9,6 @@ api_url = "https://meili.japan-dev.com/multi-search"
 page = requests.get(japan_dev_url)
 soup = BeautifulSoup(page.content, "html.parser")
 
-job_posting_count = 0
-compatiable_jobs = []
-compatiable_jobs_count = 0
 pages_to_scrape = 99
 filename = "JapanDevJobs.json"
 
@@ -64,7 +61,11 @@ def _get_job_links(job_data):
     
     return "No Link"
     
-def japan_dev_scraper():
+def japan_dev_scraper(): 
+    job_posting_count = 0
+    compatiable_jobs = []
+    compatiable_jobs_count = 0
+    
     for page_number in range(pages_to_scrape):
         current_offset = page_number * 21
         payload = JapanDevSettings._main_payload(current_offset)

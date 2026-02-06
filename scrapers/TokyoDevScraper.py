@@ -6,12 +6,6 @@ HOME_URL = "https://www.tokyodev.com"
 JOBS_URL = "https://www.tokyodev.com/jobs"
 page = requests.get(JOBS_URL)
 
-company_count = 0
-compatible_job_count = 0
-incompatible_job_count = 0
-compatiable_jobs = []
-compatible = bool
-
 soup = BeautifulSoup(page.content, "html.parser")
 root_job_element = soup.find("ul", class_="relative list-inside")
 
@@ -36,6 +30,12 @@ def url_safety_check(element, URL):
     
 # List through the job names
 def tokyo_dev_scraper():
+    company_count = 0
+    compatible_job_count = 0
+    incompatible_job_count = 0
+    compatiable_jobs = []
+    compatible = False
+    
     for job_info in root_job_element.find_all("li"):
         
         company_name = job_info.find("a", class_="hover:text-indigo-600 dark:hover:text-indigo-400")
