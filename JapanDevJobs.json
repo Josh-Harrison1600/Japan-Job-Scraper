@@ -1,329 +1,326 @@
 [
-    {
-<<<<<<< Updated upstream
-=======
-        "Title": "Software x Discover Engineer",
-        "Level": "seniority_level_new_grad",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/labbase/labbase-software-x-discover-engineer-b19iq5"
-    },
-    {
-        "Title": "Senior Research X Discovery Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/labbase/labbase-senior-research-x-discovery-engineer-nuhe67"
-    },
-    {
-        "Title": "Cloud Platform Engineer (DB Specialist)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay/paypay-cloud-platform-engineer-db-specialist-3ejfjx"
-    },
-    {
-        "Title": "C++ Developer (Analyst/Associate, Risk & Quant Analytics)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/polymer-capital/polymer-capital-c-developer-analystassociate-risk--quant-analytics-isd513"
-    },
-    {
->>>>>>> Stashed changes
-        "Title": "Robotics Algorithm Engineer (C++ / Optimization)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/mujin/mujin-robotics-algorithm-engineer-c--optimization-ucibvn"
-    },
-    {
-        "Title": "Growth Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r"
-    },
-    {
-        "Title": "UI/UX Designer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/metanomaly/metanomaly-uiux-designer-a9qeed"
-    },
-    {
-        "Title": "Founding Designer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/ikhor/kamikai-founding-designer-ymsp9d"
-    },
-    {
-        "Title": "Security Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/zeals/zeals-security-engineer-9u6uc2"
-    },
-    {
-        "Title": "Backend Developer",
-        "Level": "seniority_level_junior",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/jamm/jamm-backend-developer-n7o3sk"
-    },
-    {
-        "Title": "Senior Software Engineer (Partner Product Development Department)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-senior-software-engineer-partner-product-development-department-tokyo-fzwt1h"
-    },
-    {
-        "Title": "Frontend Engineer (Android)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/mujin/mujin-frontend-engineerandroid-heavy-react-secondary-68n4i2"
-    },
-    {
-        "Title": "Software Engineer (Robotics Control Systems)",
-        "Level": "seniority_level_unknown",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-software-engineer-robotics-control-systems-oj4jo2"
-    },
-    {
-        "Title": "Software Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/axelspace/axelspace-software-engineer---japandev-iyrajn"
-    },
-    {
-        "Title": "Security Specialist (CISO Office - Tokyo)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-security-specialist-ciso-office-tokyojapandev-o27pc7"
-    },
-    {
-        "Title": "Senior Software Engineer (C++ & Python)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/mujin/mujin-senior-software-engineer-wes--fm-uhpwd5"
-    },
-    {
-        "Title": "Senior Full Stack Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe"
-    },
-    {
-        "Title": "Front-end Engineering Internship (Onsite Tokyo, Japan)",
-        "Level": "seniority_level_new_grad",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/hennge/hennge-front-end-engineering-internship-onsite-tokyo-japan-8lbfyd"
-    },
-    {
-        "Title": "IOS/Android App Development Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/ystory/ystory-iosandroid-app-development-engineer-areddr"
-    },
-    {
-        "Title": "Full Stack Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-full-stack-engineer-sliy8x"
-    },
-    {
-        "Title": "MLOps Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-mlops-engineer-z44boe"
-    },
-    {
-        "Title": "Data Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-data-engineer-ydu56g"
-    },
-    {
-        "Title": "Research Scientist (VLAs)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-research-scientist-vlas-m1tkft"
-    },
-    {
-        "Title": "Research Scientist (Robotics)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-research-scientist-robotics-j3u51q"
-    },
-    {
-        "Title": "Product Designer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay/paypay-product-designer-k1420j"
-    },
-    {
-        "Title": "Backend Engineer (Scala)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/givery/givery-backend-engineer-scala-nruzwd"
-    },
-    {
-        "Title": "Software Engineer (Go / Web Dev)",
-        "Level": "seniority_level_junior",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/hennge/hennge-junior-software-engineer-go-wen-ssoq2l"
-    },
-    {
-        "Title": "Cloud Infrastructure Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay-securities/paypay-securities-cloud-infrastructure-engineer-lulkjk"
-    },
-    {
-        "Title": "QA Engineer (HR Tech)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/givery/givery--hr-tech-qa-engineer-uco5fq"
-    },
-    {
-        "Title": "Principal Backend Engineer (Money Forward Cloud, Osaka)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-principalbackend-engineer--money-forward-cloud-osakajapandev-ex1tgp"
-    },
-    {
-        "Title": "Product Security Engineer (Infrastructure)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay/paypay-product-security-engineer-infrastructure-esmz9y"
-    },
-    {
-        "Title": "Senior Full-Stack Software Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/visual-alpha/visual-alpha-senior-software-engineer-dxw8c7"
-    },
-    {
-        "Title": "SRE (Digital Bank)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-sre-digital-banktokyo-ksd9os"
-    },
-    {
-        "Title": "Automation QA Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay-card/paypay-card-automation-qa-engineer-0uw6jl"
-    },
-    {
-        "Title": "System Architect (AxelGlobe)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/axelspace/axelspace-axelglobe--japandev-06vjtj"
-    },
-    {
-        "Title": "Cloud Platform Engineer (Kafka Specialist)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay/paypay-cloud-platform-engineer-kafka-specialist-6wp3ya"
-    },
-    {
-        "Title": "Frontend Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay/paypay-frontend-engineer-el36re"
-    },
-    {
-        "Title": "Data Engineer, DaaS",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay/paypay-data-engineer-daas-2qhzq3"
-    },
-    {
-        "Title": "Automation QA Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay/paypay-automation-qa-engineer-qhtqvf"
-    },
-    {
-        "Title": "Senior / Lead SET / QA Engineer",
-        "Level": "seniority_level_unknown",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/meetsmore/meetsmore-senior--lead-setqa-engineer-u6tk67"
-    },
-    {
-        "Title": "Full Stack Software Engineering Internship (Onsite Tokyo, Japan)",
-        "Level": "seniority_level_new_grad",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/hennge/hennge-global-internship-program-onsite-tokyo-japan-42q8i0"
-    },
-    {
-        "Title": "Data Operations Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/tablecheck/tablecheck-data-operations-engineer-otv5y5"
-    },
-    {
-        "Title": "Software Engineer - Backend",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-software-engineer---backend-u04ghh"
-    },
-    {
-        "Title": "System Integration Engineer - Robotics",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-system-integration-engineer---robotics-ft3y86"
-    },
-    {
-        "Title": "Quality Assurance Engineer II - Robotics",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-quality-assurance-engineer-ii---robotics-ucqby2"
-    },
-    {
-        "Title": "Founding Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/carnot/carnot-founding-engineer-ymjfxg"
-    },
-    {
-        "Title": "C++ Developer (Analyst/Associate, Risk & Quant Analytics)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/polymer-capital/polymer-capital-c-developer-analystassociate-risk--quant-analytics-isd513"
-    },
-    {
-        "Title": "Machine Learning Tech Lead - Post-Training for AI Characters",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/starley/starley-team-lead-machine-learning----post-training-for-ai-characters-60kcix"
-    },
-    {
-        "Title": "Database Administrator",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/axelspace/axelspace-database-administrator-8ze94a"
-    },
-    {
-        "Title": "Product Designer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/starley/starley-product-designer-i9wz0n"
-    },
-    {
-        "Title": "Frontend Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay-card/paypay-card-frontend-engineer-sfw5i2"
-    },
-    {
-        "Title": "Product Engineer \u2013 Mid-Level",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/starley/starley-software-engineer---backend-ekvm6j"
-    },
-    {
-        "Title": "Site Reliability Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/thecoo/thecoo-site-reliability-engineer-ppisqm"
-    },
-    {
-        "Title": "Backend Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay-card/paypay-card-backend-engineer-huo4dv"
-    }
+  {
+    "Title": "Software x Discover Engineer",
+    "Level": "seniority_level_new_grad",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/labbase/labbase-software-x-discover-engineer-b19iq5"
+  },
+  {
+    "Title": "Senior Research X Discovery Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/labbase/labbase-senior-research-x-discovery-engineer-nuhe67"
+  },
+  {
+    "Title": "Cloud Platform Engineer (DB Specialist)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay/paypay-cloud-platform-engineer-db-specialist-3ejfjx"
+  },
+  {
+    "Title": "C++ Developer (Analyst/Associate, Risk & Quant Analytics)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/polymer-capital/polymer-capital-c-developer-analystassociate-risk--quant-analytics-isd513"
+  },
+  {
+    "Title": "Robotics Algorithm Engineer (C++ / Optimization)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/mujin/mujin-robotics-algorithm-engineer-c--optimization-ucibvn"
+  },
+  {
+    "Title": "Growth Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r"
+  },
+  {
+    "Title": "UI/UX Designer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/metanomaly/metanomaly-uiux-designer-a9qeed"
+  },
+  {
+    "Title": "Founding Designer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/ikhor/kamikai-founding-designer-ymsp9d"
+  },
+  {
+    "Title": "Security Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/zeals/zeals-security-engineer-9u6uc2"
+  },
+  {
+    "Title": "Backend Developer",
+    "Level": "seniority_level_junior",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/jamm/jamm-backend-developer-n7o3sk"
+  },
+  {
+    "Title": "Senior Software Engineer (Partner Product Development Department)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/money-forward/money-forward-senior-software-engineer-partner-product-development-department-tokyo-fzwt1h"
+  },
+  {
+    "Title": "Frontend Engineer (Android)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/mujin/mujin-frontend-engineerandroid-heavy-react-secondary-68n4i2"
+  },
+  {
+    "Title": "Software Engineer (Robotics Control Systems)",
+    "Level": "seniority_level_unknown",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-software-engineer-robotics-control-systems-oj4jo2"
+  },
+  {
+    "Title": "Software Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/axelspace/axelspace-software-engineer---japandev-iyrajn"
+  },
+  {
+    "Title": "Security Specialist (CISO Office - Tokyo)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/money-forward/money-forward-security-specialist-ciso-office-tokyojapandev-o27pc7"
+  },
+  {
+    "Title": "Senior Software Engineer (C++ & Python)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/mujin/mujin-senior-software-engineer-wes--fm-uhpwd5"
+  },
+  {
+    "Title": "Senior Full Stack Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe"
+  },
+  {
+    "Title": "Front-end Engineering Internship (Onsite Tokyo, Japan)",
+    "Level": "seniority_level_new_grad",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/hennge/hennge-front-end-engineering-internship-onsite-tokyo-japan-8lbfyd"
+  },
+  {
+    "Title": "IOS/Android App Development Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/ystory/ystory-iosandroid-app-development-engineer-areddr"
+  },
+  {
+    "Title": "Full Stack Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-full-stack-engineer-sliy8x"
+  },
+  {
+    "Title": "MLOps Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-mlops-engineer-z44boe"
+  },
+  {
+    "Title": "Data Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-data-engineer-ydu56g"
+  },
+  {
+    "Title": "Research Scientist (VLAs)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-research-scientist-vlas-m1tkft"
+  },
+  {
+    "Title": "Research Scientist (Robotics)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-research-scientist-robotics-j3u51q"
+  },
+  {
+    "Title": "Product Designer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay/paypay-product-designer-k1420j"
+  },
+  {
+    "Title": "Backend Engineer (Scala)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/givery/givery-backend-engineer-scala-nruzwd"
+  },
+  {
+    "Title": "Software Engineer (Go / Web Dev)",
+    "Level": "seniority_level_junior",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/hennge/hennge-junior-software-engineer-go-wen-ssoq2l"
+  },
+  {
+    "Title": "Cloud Infrastructure Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay-securities/paypay-securities-cloud-infrastructure-engineer-lulkjk"
+  },
+  {
+    "Title": "QA Engineer (HR Tech)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/givery/givery--hr-tech-qa-engineer-uco5fq"
+  },
+  {
+    "Title": "Principal Backend Engineer (Money Forward Cloud, Osaka)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/money-forward/money-forward-principalbackend-engineer--money-forward-cloud-osakajapandev-ex1tgp"
+  },
+  {
+    "Title": "Product Security Engineer (Infrastructure)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay/paypay-product-security-engineer-infrastructure-esmz9y"
+  },
+  {
+    "Title": "Senior Full-Stack Software Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/visual-alpha/visual-alpha-senior-software-engineer-dxw8c7"
+  },
+  {
+    "Title": "SRE (Digital Bank)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/money-forward/money-forward-sre-digital-banktokyo-ksd9os"
+  },
+  {
+    "Title": "Automation QA Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay-card/paypay-card-automation-qa-engineer-0uw6jl"
+  },
+  {
+    "Title": "System Architect (AxelGlobe)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/axelspace/axelspace-axelglobe--japandev-06vjtj"
+  },
+  {
+    "Title": "Cloud Platform Engineer (Kafka Specialist)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay/paypay-cloud-platform-engineer-kafka-specialist-6wp3ya"
+  },
+  {
+    "Title": "Frontend Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay/paypay-frontend-engineer-el36re"
+  },
+  {
+    "Title": "Data Engineer, DaaS",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay/paypay-data-engineer-daas-2qhzq3"
+  },
+  {
+    "Title": "Automation QA Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay/paypay-automation-qa-engineer-qhtqvf"
+  },
+  {
+    "Title": "Senior / Lead SET / QA Engineer",
+    "Level": "seniority_level_unknown",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/meetsmore/meetsmore-senior--lead-setqa-engineer-u6tk67"
+  },
+  {
+    "Title": "Full Stack Software Engineering Internship (Onsite Tokyo, Japan)",
+    "Level": "seniority_level_new_grad",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/hennge/hennge-global-internship-program-onsite-tokyo-japan-42q8i0"
+  },
+  {
+    "Title": "Data Operations Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/tablecheck/tablecheck-data-operations-engineer-otv5y5"
+  },
+  {
+    "Title": "Software Engineer - Backend",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-software-engineer---backend-u04ghh"
+  },
+  {
+    "Title": "System Integration Engineer - Robotics",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-system-integration-engineer---robotics-ft3y86"
+  },
+  {
+    "Title": "Quality Assurance Engineer II - Robotics",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-quality-assurance-engineer-ii---robotics-ucqby2"
+  },
+  {
+    "Title": "Founding Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/carnot/carnot-founding-engineer-ymjfxg"
+  },
+  {
+    "Title": "C++ Developer (Analyst/Associate, Risk & Quant Analytics)",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/polymer-capital/polymer-capital-c-developer-analystassociate-risk--quant-analytics-isd513"
+  },
+  {
+    "Title": "Machine Learning Tech Lead - Post-Training for AI Characters",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/starley/starley-team-lead-machine-learning----post-training-for-ai-characters-60kcix"
+  },
+  {
+    "Title": "Database Administrator",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/axelspace/axelspace-database-administrator-8ze94a"
+  },
+  {
+    "Title": "Product Designer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/starley/starley-product-designer-i9wz0n"
+  },
+  {
+    "Title": "Frontend Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay-card/paypay-card-frontend-engineer-sfw5i2"
+  },
+  {
+    "Title": "Product Engineer \u2013 Mid-Level",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/starley/starley-software-engineer---backend-ekvm6j"
+  },
+  {
+    "Title": "Site Reliability Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_conversational",
+    "URL": "https://japan-dev.com/jobs/thecoo/thecoo-site-reliability-engineer-ppisqm"
+  },
+  {
+    "Title": "Backend Engineer",
+    "Level": "seniority_level_mid_level",
+    "Language": "japanese_level_not_required",
+    "URL": "https://japan-dev.com/jobs/paypay-card/paypay-card-backend-engineer-huo4dv"
+  }
 ]
