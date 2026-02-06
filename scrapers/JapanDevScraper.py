@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import json
-import JapanDevSettings
+from scrapers.helpers import JapanDevSettings
 
 japan_dev_url = "https://japan-dev.com/jobs"
 api_url = "https://meili.japan-dev.com/multi-search"
