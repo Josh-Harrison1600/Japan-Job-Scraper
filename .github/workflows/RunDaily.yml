@@ -23,12 +23,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 python-dotenv
       - name: run the scrapers and send the email if new jobs are found
-        run: |
-          python emailer/SendEmail.py
-
-      - name: save results of the scrapers
         env:
           APP_PASSWORD: ${{ secrets.APP_PASSWORD }}
+        run: |
+          python Main.py
+
+      - name: save results of the scrapers
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
