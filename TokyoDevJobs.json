@@ -1,5 +1,9 @@
 [
     {
+        "Title": "Data Architect",
+        "URL": "https://www.tokyodev.com/companies/gran-manibus/jobs/data-architect"
+    },
+    {
         "Title": "Senior Data Science Engineer / Senior Machine Learning Engineer - Data Insights",
         "URL": "https://www.tokyodev.com/companies/paypay/jobs/senior-data-science-engineer-senior-machine-learning-engineer-data-insights"
     },
@@ -46,10 +50,6 @@
     {
         "Title": "Security Specialist (Product Security), CISO Office, Tokyo",
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo"
-    },
-    {
-        "Title": "AI Program Manager, Productivity Innovation Department, Tokyo",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/ai-program-manager-productivity-innovation-department-tokyo"
     },
     {
         "Title": "Tech Lead, Platform Application Department, Tokyo",
@@ -290,9 +290,5 @@
     {
         "Title": "Senior Ruby on Rails Developer",
         "URL": "https://www.tokyodev.com/companies/andpad/jobs/senior-ruby-on-rails-developer"
-    },
-    {
-        "Title": "Data Architect",
-        "URL": "https://www.tokyodev.com/companies/gran-manibus/jobs/data-architect"
     }
 ]
