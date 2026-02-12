@@ -1,5 +1,11 @@
 [
     {
+        "Title": "Full Stack Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-full-stack-engineer-sliy8x"
+    },
+    {
         "Title": "Senior Backend Engineer (Architect Department)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -118,12 +124,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/ystory/ystory-iosandroid-app-development-engineer-areddr"
-    },
-    {
-        "Title": "Full Stack Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-full-stack-engineer-sliy8x"
     },
     {
         "Title": "MLOps Engineer",
