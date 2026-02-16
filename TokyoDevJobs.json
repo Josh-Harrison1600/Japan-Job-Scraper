@@ -1,286 +1,298 @@
 [
-  {
-    "Title": "Full stack AI-engineer",
-    "URL": "https://www.tokyodev.com/companies/assethub/jobs/full-stack-ai-engineer"
-  },
-  {
-    "Title": "Applied LLM Researcher",
-    "URL": "https://www.tokyodev.com/companies/assethub/jobs/applied-llm-researcher"
-  },
-  {
-    "Title": "Engineering Manager, Business Platform Development Division, Tokyo",
-    "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/engineering-manager-business-platform-development-division-tokyo"
-  },
-  {
-    "Title": "Security Specialist (Product Security), CISO Office, Tokyo",
-    "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo"
-  },
-  {
-    "Title": "AI Program Manager, Productivity Innovation Department, Tokyo",
-    "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/ai-program-manager-productivity-innovation-department-tokyo"
-  },
-  {
-    "Title": "Tech Lead, Platform Application Department, Tokyo",
-    "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/tech-lead-platform-application-department-tokyo"
-  },
-  {
-    "Title": "Principal Backend Engineer (Kotlin), Money Forward Cloud (Consolidated Accounting), Osaka",
-    "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/principal-backend-engineer-kotlin-money-forward-cloud-consolidated-accounting-osaka"
-  },
-  {
-    "Title": "Security Specialist - Product Security, Digital Bank",
-    "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-digital-bank"
-  },
-  {
-    "Title": "Experienced Mobile Application Engineer",
-    "URL": "https://www.tokyodev.com/companies/scoville/jobs/experienced-mobile-application-engineer"
-  },
-  {
-    "Title": "Cross-Platform Engineer",
-    "URL": "https://www.tokyodev.com/companies/scoville/jobs/cross-platform-engineer"
-  },
-  {
-    "Title": "Senior Android Developer",
-    "URL": "https://www.tokyodev.com/companies/komoju/jobs/senior-android-developer"
-  },
-  {
-    "Title": "Tech Lead, Backend-Focused Full-Stack (Global Product Team)",
-    "URL": "https://www.tokyodev.com/companies/caddi/jobs/tech-lead-backend-focused-full-stack-global-product-team"
-  },
-  {
-    "Title": "Senior Software Engineer, Backend-Focused Full-Stack (Global Product Team)",
-    "URL": "https://www.tokyodev.com/companies/caddi/jobs/senior-software-engineer-backend"
-  },
-  {
-    "Title": "Software Engineer - Robotics Control Systems",
-    "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/software-engineer-robotics-control-systems"
-  },
-  {
-    "Title": "Technical Program Manager, Distributed Systems",
-    "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/technical-program-manager-distributed-systems"
-  },
-  {
-    "Title": "Robotics Software Engineer - Navigation",
-    "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-software-engineer"
-  },
-  {
-    "Title": "Senior Robotics Engineer - Localization & Perception",
-    "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/senior-robotics-engineer-localization-perception"
-  },
-  {
-    "Title": "Security Engineer",
-    "URL": "https://www.tokyodev.com/companies/zeals/jobs/security-engineer"
-  },
-  {
-    "Title": "Game Server Programmer",
-    "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/game-server-programmer"
-  },
-  {
-    "Title": "Software Engineer - Game Development",
-    "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/software-engineer"
-  },
-  {
-    "Title": "Video Game Engine Programmer",
-    "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/video-game-engine-programmer"
-  },
-  {
-    "Title": "Unreal Engine Game Programmer",
-    "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/unreal-engine-game-programmer"
-  },
-  {
-    "Title": "Engineering Manager",
-    "URL": "https://www.tokyodev.com/companies/tektome/jobs/engineering-manager"
-  },
-  {
-    "Title": "Senior Creative AI Engineer",
-    "URL": "https://www.tokyodev.com/companies/ikhor-labs/jobs/senior-creative-ai-engineer"
-  },
-  {
-    "Title": "Cloud Platform Engineer",
-    "URL": "https://www.tokyodev.com/companies/paypay/jobs/cloud-platform-engineer"
-  },
-  {
-    "Title": "Product Designer",
-    "URL": "https://www.tokyodev.com/companies/paypay/jobs/product-designer"
-  },
-  {
-    "Title": "Product Security Engineer (Infrastructure)",
-    "URL": "https://www.tokyodev.com/companies/paypay/jobs/product-security-engineer-infrastructure"
-  },
-  {
-    "Title": "Backend Engineer",
-    "URL": "https://www.tokyodev.com/companies/paypay/jobs/backend-engineer-884fff6e-47a5-4bf3-b8b0-004a9a3d3c04"
-  },
-  {
-    "Title": "Cloud Platform Engineer (Kafka Specialist)",
-    "URL": "https://www.tokyodev.com/companies/paypay/jobs/cloud-platform-engineer-kafka-specialist"
-  },
-  {
-    "Title": "Site Reliability Engineer  (Bilingual)",
-    "URL": "https://www.tokyodev.com/companies/paypay/jobs/sre"
-  },
-  {
-    "Title": "Automation QA Engineer",
-    "URL": "https://www.tokyodev.com/companies/paypay/jobs/automation-qa-engineer"
-  },
-  {
-    "Title": "Senior Software Engineer (amptalk coach team)",
-    "URL": "https://www.tokyodev.com/companies/amptalk/jobs/sr-software-engineer-amptalk-coach-team"
-  },
-  {
-    "Title": "Senior Mobile (Flutter) Engineer",
-    "URL": "https://www.tokyodev.com/companies/amptalk/jobs/sr-mobile-flutter-engineer"
-  },
-  {
-    "Title": "Senior C# / Unity Developer",
-    "URL": "https://www.tokyodev.com/companies/slacker-apps/jobs/senior-c-unity-developer"
-  },
-  {
-    "Title": "AI Chatbot Engineer",
-    "URL": "https://www.tokyodev.com/companies/slacker-apps/jobs/ai-chatbot-engineer"
-  },
-  {
-    "Title": "Full Stack Developer",
-    "URL": "https://www.tokyodev.com/companies/piece/jobs/full-stack-developer"
-  },
-  {
-    "Title": "Senior Site Reliability Engineer / DevOps",
-    "URL": "https://www.tokyodev.com/companies/meetsmore/jobs/senior-site-reliability-engineer-devops"
-  },
-  {
-    "Title": "Senior Software Engineer",
-    "URL": "https://www.tokyodev.com/companies/meetsmore/jobs/senior-software-engineer"
-  },
-  {
-    "Title": "Senior / Lead SET/QA Engineer",
-    "URL": "https://www.tokyodev.com/companies/meetsmore/jobs/set-qa-engineer-senior-leader-candidate"
-  },
-  {
-    "Title": "Senior Backend Engineer, Microservices (Go)",
-    "URL": "https://www.tokyodev.com/companies/cybozu/jobs/senior-backend-engineer-microservices-go"
-  },
-  {
-    "Title": "Senior Software Engineer \u2013 QA Platform Development",
-    "URL": "https://www.tokyodev.com/companies/cybozu/jobs/senior-software-engineer-qa-platform-development"
-  },
-  {
-    "Title": "Senior AOCS Engineer",
-    "URL": "https://www.tokyodev.com/companies/synspective/jobs/senior-aocs-engineer"
-  },
-  {
-    "Title": "Global Internship Program - Front end",
-    "URL": "https://www.tokyodev.com/companies/hennge/jobs/global-internship-program-front-end"
-  },
-  {
-    "Title": "Software Engineer (Go / Web Dev)",
-    "URL": "https://www.tokyodev.com/companies/hennge/jobs/junior-software-engineer-go-web-dev"
-  },
-  {
-    "Title": "Senior Software Engineer (Python/Web Dev)",
-    "URL": "https://www.tokyodev.com/companies/hennge/jobs/senior-software-developer-python"
-  },
-  {
-    "Title": "Global Internship Program - Full Stack",
-    "URL": "https://www.tokyodev.com/companies/hennge/jobs/global-intern"
-  },
-  {
-    "Title": "Research Scientist (Robotics)",
-    "URL": "https://www.tokyodev.com/companies/ai-robot-association/jobs/research-scientist-robotics"
-  },
-  {
-    "Title": "Research Scientist (VLAs)",
-    "URL": "https://www.tokyodev.com/companies/ai-robot-association/jobs/research-scientist-vlas"
-  },
-  {
-    "Title": "Information Systems Manager",
-    "URL": "https://www.tokyodev.com/companies/ai-robot-association/jobs/information-systems-manager"
-  },
-  {
-    "Title": "Lead Full-Stack Engineer (Chinese Speaking)",
-    "URL": "https://www.tokyodev.com/companies/tablecheck/jobs/lead-full-stack-engineer-chinese-speaking"
-  },
-  {
-    "Title": "Data Operations Engineer",
-    "URL": "https://www.tokyodev.com/companies/tablecheck/jobs/data-operations-engineer"
-  },
-  {
-    "Title": "Senior QA Tester",
-    "URL": "https://www.tokyodev.com/companies/limit-break/jobs/senior-qa-tester"
-  },
-  {
-    "Title": "Unity Lead Engineer",
-    "URL": "https://www.tokyodev.com/companies/limit-break/jobs/unity-lead-engineer"
-  },
-  {
-    "Title": "Unity Integrator",
-    "URL": "https://www.tokyodev.com/companies/limit-break/jobs/unity-integrator"
-  },
-  {
-    "Title": "Senior Unity UI Engineer",
-    "URL": "https://www.tokyodev.com/companies/limit-break/jobs/senior-unity-ui-engineer"
-  },
-  {
-    "Title": "Fullstack Engineer",
-    "URL": "https://www.tokyodev.com/companies/wovn/jobs/fullstack-engineer"
-  },
-  {
-    "Title": "Senior UX/UI Designer (HR Tech)",
-    "URL": "https://www.tokyodev.com/companies/givery/jobs/hr-tech-senior-ux-ui-designer"
-  },
-  {
-    "Title": "QA Engineer (HR Tech)",
-    "URL": "https://www.tokyodev.com/companies/givery/jobs/hr-tech-qa-engineer"
-  },
-  {
-    "Title": "Backend Engineer (Scala)",
-    "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala"
-  },
-  {
-    "Title": "Automation QA Engineer",
-    "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/automation-qa-engineer"
-  },
-  {
-    "Title": "Platform Engineer",
-    "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/platform-engineer"
-  },
-  {
-    "Title": "Backend Engineer",
-    "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/backend-engineer"
-  },
-  {
-    "Title": "Database Administrator (DBA)",
-    "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/database-administrator-dba"
-  },
-  {
-    "Title": "Engineering Manager",
-    "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/engineering-manager"
-  },
-  {
-    "Title": "Senior Backend Engineer",
-    "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/senior-backend-engineer"
-  },
-  {
-    "Title": "Team Lead, Machine Learning - Post-Training",
-    "URL": "https://www.tokyodev.com/companies/starley/jobs/team-lead-machine-learning-post-training"
-  },
-  {
-    "Title": "Product Designer",
-    "URL": "https://www.tokyodev.com/companies/starley/jobs/product-designer"
-  },
-  {
-    "Title": "Product Engineer \u2013 Mid-Level",
-    "URL": "https://www.tokyodev.com/companies/starley/jobs/software-engineer-backend"
-  },
-  {
-    "Title": "Senior Product Engineer",
-    "URL": "https://www.tokyodev.com/companies/starley/jobs/senior-staff-software-engineer-backend"
-  },
-  {
-    "Title": "Senior Ruby on Rails Developer",
-    "URL": "https://www.tokyodev.com/companies/andpad/jobs/senior-ruby-on-rails-developer"
-  },
-  {
-    "Title": "Data Architect",
-    "URL": "https://www.tokyodev.com/companies/gran-manibus/jobs/data-architect"
-  }
+    {
+        "Title": "Senior Ruby on Rails Developer",
+        "URL": "https://www.tokyodev.com/companies/andpad/jobs/senior-ruby-on-rails-developer"
+    },
+    {
+        "Title": "Research Scientist (Robotics)",
+        "URL": "https://www.tokyodev.com/companies/ai-robot-association/jobs/research-scientist-robotics"
+    },
+    {
+        "Title": "Research Scientist (VLAs)",
+        "URL": "https://www.tokyodev.com/companies/ai-robot-association/jobs/research-scientist-vlas"
+    },
+    {
+        "Title": "Information Systems Manager",
+        "URL": "https://www.tokyodev.com/companies/ai-robot-association/jobs/information-systems-manager"
+    },
+    {
+        "Title": "Software Engineer, Product Discovery",
+        "URL": "https://www.tokyodev.com/companies/labbase/jobs/software-engineer-product-discovery"
+    },
+    {
+        "Title": "Data Architect",
+        "URL": "https://www.tokyodev.com/companies/gran-manibus/jobs/data-architect"
+    },
+    {
+        "Title": "Senior Data Science Engineer / Senior Machine Learning Engineer - Data Insights",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/senior-data-science-engineer-senior-machine-learning-engineer-data-insights"
+    },
+    {
+        "Title": "Cloud Platform Engineer (DB Specialist)",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/cloud-platform-engineer-db-specialist"
+    },
+    {
+        "Title": "Cloud Platform Engineer",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/cloud-platform-engineer"
+    },
+    {
+        "Title": "Product Designer",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/product-designer"
+    },
+    {
+        "Title": "Product Security Engineer (Infrastructure)",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/product-security-engineer-infrastructure"
+    },
+    {
+        "Title": "Backend Engineer",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/backend-engineer-884fff6e-47a5-4bf3-b8b0-004a9a3d3c04"
+    },
+    {
+        "Title": "Cloud Platform Engineer (Kafka Specialist)",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/cloud-platform-engineer-kafka-specialist"
+    },
+    {
+        "Title": "Site Reliability Engineer  (Bilingual)",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/sre"
+    },
+    {
+        "Title": "Automation QA Engineer",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/automation-qa-engineer"
+    },
+    {
+        "Title": "Platform Engineer, Platform and Reliability Engineering Department",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/platform-engineer-platform-and-reliability-engineering-department"
+    },
+    {
+        "Title": "Engineering Manager, Business Platform Development Division, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/engineering-manager-business-platform-development-division-tokyo"
+    },
+    {
+        "Title": "Security Specialist (Product Security), CISO Office, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo"
+    },
+    {
+        "Title": "Tech Lead, Platform Application Department, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/tech-lead-platform-application-department-tokyo"
+    },
+    {
+        "Title": "Principal Backend Engineer (Kotlin), Money Forward Cloud (Consolidated Accounting), Osaka",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/principal-backend-engineer-kotlin-money-forward-cloud-consolidated-accounting-osaka"
+    },
+    {
+        "Title": "Security Specialist - Product Security, Digital Bank",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-digital-bank"
+    },
+    {
+        "Title": "Full stack AI-engineer",
+        "URL": "https://www.tokyodev.com/companies/assethub/jobs/full-stack-ai-engineer"
+    },
+    {
+        "Title": "Applied LLM Researcher",
+        "URL": "https://www.tokyodev.com/companies/assethub/jobs/applied-llm-researcher"
+    },
+    {
+        "Title": "Product Designer",
+        "URL": "https://www.tokyodev.com/companies/scene/jobs/product-designer"
+    },
+    {
+        "Title": "Senior Full-Stack Software Engineer",
+        "URL": "https://www.tokyodev.com/companies/visual-alpha/jobs/senior-full-stack-software-engineer"
+    },
+    {
+        "Title": "Experienced Mobile Application Engineer",
+        "URL": "https://www.tokyodev.com/companies/scoville/jobs/experienced-mobile-application-engineer"
+    },
+    {
+        "Title": "Cross-Platform Engineer",
+        "URL": "https://www.tokyodev.com/companies/scoville/jobs/cross-platform-engineer"
+    },
+    {
+        "Title": "Senior Android Developer",
+        "URL": "https://www.tokyodev.com/companies/komoju/jobs/senior-android-developer"
+    },
+    {
+        "Title": "Tech Lead, Backend-Focused Full-Stack (Global Product Team)",
+        "URL": "https://www.tokyodev.com/companies/caddi/jobs/tech-lead-backend-focused-full-stack-global-product-team"
+    },
+    {
+        "Title": "Senior Software Engineer, Backend-Focused Full-Stack (Global Product Team)",
+        "URL": "https://www.tokyodev.com/companies/caddi/jobs/senior-software-engineer-backend"
+    },
+    {
+        "Title": "Software Engineer - Robotics Control Systems",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/software-engineer-robotics-control-systems"
+    },
+    {
+        "Title": "Technical Program Manager, Distributed Systems",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/technical-program-manager-distributed-systems"
+    },
+    {
+        "Title": "Robotics Software Engineer - Navigation",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-software-engineer"
+    },
+    {
+        "Title": "Senior Robotics Engineer - Localization & Perception",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/senior-robotics-engineer-localization-perception"
+    },
+    {
+        "Title": "Security Engineer",
+        "URL": "https://www.tokyodev.com/companies/zeals/jobs/security-engineer"
+    },
+    {
+        "Title": "Game Server Programmer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/game-server-programmer"
+    },
+    {
+        "Title": "Software Engineer - Game Development",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/software-engineer"
+    },
+    {
+        "Title": "Video Game Engine Programmer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/video-game-engine-programmer"
+    },
+    {
+        "Title": "Unreal Engine Game Programmer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/unreal-engine-game-programmer"
+    },
+    {
+        "Title": "Engineering Manager",
+        "URL": "https://www.tokyodev.com/companies/tektome/jobs/engineering-manager"
+    },
+    {
+        "Title": "Senior Creative AI Engineer",
+        "URL": "https://www.tokyodev.com/companies/ikhor-labs/jobs/senior-creative-ai-engineer"
+    },
+    {
+        "Title": "Senior Software Engineer (amptalk coach team)",
+        "URL": "https://www.tokyodev.com/companies/amptalk/jobs/sr-software-engineer-amptalk-coach-team"
+    },
+    {
+        "Title": "Senior Mobile (Flutter) Engineer",
+        "URL": "https://www.tokyodev.com/companies/amptalk/jobs/sr-mobile-flutter-engineer"
+    },
+    {
+        "Title": "Senior C# / Unity Developer",
+        "URL": "https://www.tokyodev.com/companies/slacker-apps/jobs/senior-c-unity-developer"
+    },
+    {
+        "Title": "AI Chatbot Engineer",
+        "URL": "https://www.tokyodev.com/companies/slacker-apps/jobs/ai-chatbot-engineer"
+    },
+    {
+        "Title": "Full Stack Developer",
+        "URL": "https://www.tokyodev.com/companies/piece/jobs/full-stack-developer"
+    },
+    {
+        "Title": "Senior Site Reliability Engineer / DevOps",
+        "URL": "https://www.tokyodev.com/companies/meetsmore/jobs/senior-site-reliability-engineer-devops"
+    },
+    {
+        "Title": "Senior Software Engineer",
+        "URL": "https://www.tokyodev.com/companies/meetsmore/jobs/senior-software-engineer"
+    },
+    {
+        "Title": "Senior / Lead SET/QA Engineer",
+        "URL": "https://www.tokyodev.com/companies/meetsmore/jobs/set-qa-engineer-senior-leader-candidate"
+    },
+    {
+        "Title": "Senior Backend Engineer, Microservices (Go)",
+        "URL": "https://www.tokyodev.com/companies/cybozu/jobs/senior-backend-engineer-microservices-go"
+    },
+    {
+        "Title": "Senior Software Engineer \u2013 QA Platform Development",
+        "URL": "https://www.tokyodev.com/companies/cybozu/jobs/senior-software-engineer-qa-platform-development"
+    },
+    {
+        "Title": "Senior AOCS Engineer",
+        "URL": "https://www.tokyodev.com/companies/synspective/jobs/senior-aocs-engineer"
+    },
+    {
+        "Title": "Global Internship Program - Front end",
+        "URL": "https://www.tokyodev.com/companies/hennge/jobs/global-internship-program-front-end"
+    },
+    {
+        "Title": "Software Engineer (Go / Web Dev)",
+        "URL": "https://www.tokyodev.com/companies/hennge/jobs/junior-software-engineer-go-web-dev"
+    },
+    {
+        "Title": "Senior Software Engineer (Python/Web Dev)",
+        "URL": "https://www.tokyodev.com/companies/hennge/jobs/senior-software-developer-python"
+    },
+    {
+        "Title": "Global Internship Program - Full Stack",
+        "URL": "https://www.tokyodev.com/companies/hennge/jobs/global-intern"
+    },
+    {
+        "Title": "Lead Full-Stack Engineer (Chinese Speaking)",
+        "URL": "https://www.tokyodev.com/companies/tablecheck/jobs/lead-full-stack-engineer-chinese-speaking"
+    },
+    {
+        "Title": "Data Operations Engineer",
+        "URL": "https://www.tokyodev.com/companies/tablecheck/jobs/data-operations-engineer"
+    },
+    {
+        "Title": "Senior QA Tester",
+        "URL": "https://www.tokyodev.com/companies/limit-break/jobs/senior-qa-tester"
+    },
+    {
+        "Title": "Unity Lead Engineer",
+        "URL": "https://www.tokyodev.com/companies/limit-break/jobs/unity-lead-engineer"
+    },
+    {
+        "Title": "Unity Integrator",
+        "URL": "https://www.tokyodev.com/companies/limit-break/jobs/unity-integrator"
+    },
+    {
+        "Title": "Senior Unity UI Engineer",
+        "URL": "https://www.tokyodev.com/companies/limit-break/jobs/senior-unity-ui-engineer"
+    },
+    {
+        "Title": "Fullstack Engineer",
+        "URL": "https://www.tokyodev.com/companies/wovn/jobs/fullstack-engineer"
+    },
+    {
+        "Title": "Backend Engineer (Scala)",
+        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala"
+    },
+    {
+        "Title": "Automation QA Engineer",
+        "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/automation-qa-engineer"
+    },
+    {
+        "Title": "Platform Engineer",
+        "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/platform-engineer"
+    },
+    {
+        "Title": "Backend Engineer",
+        "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/backend-engineer"
+    },
+    {
+        "Title": "Database Administrator (DBA)",
+        "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/database-administrator-dba"
+    },
+    {
+        "Title": "Engineering Manager",
+        "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/engineering-manager"
+    },
+    {
+        "Title": "Senior Backend Engineer",
+        "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/senior-backend-engineer"
+    },
+    {
+        "Title": "Team Lead, Machine Learning - Post-Training",
+        "URL": "https://www.tokyodev.com/companies/starley/jobs/team-lead-machine-learning-post-training"
+    },
+    {
+        "Title": "Product Designer",
+        "URL": "https://www.tokyodev.com/companies/starley/jobs/product-designer"
+    },
+    {
+        "Title": "Product Engineer \u2013 Mid-Level",
+        "URL": "https://www.tokyodev.com/companies/starley/jobs/software-engineer-backend"
+    },
+    {
+        "Title": "Senior Product Engineer",
+        "URL": "https://www.tokyodev.com/companies/starley/jobs/senior-staff-software-engineer-backend"
+    }
 ]
