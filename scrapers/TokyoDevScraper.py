@@ -30,6 +30,14 @@ def url_safety_check(element, URL):
     
 # List through the job names
 def tokyo_dev_scraper():
+    # Load old jobs
+    try:
+        with open('TokyoDevJobs.json', 'r') as f:
+            old_jobs = json.load(f)
+            old_urls = {job['URL'] for job in old_jobs}
+    except FileNotFoundError:
+        old_urls = set()
+
     company_count = 0
     compatible_job_count = 0
     incompatible_job_count = 0
@@ -89,13 +97,6 @@ def tokyo_dev_scraper():
                 job_entry = {"Title": job_title.text.strip(), "URL": HOME_URL + job_url['href']}
                 compatiable_jobs.append(job_entry)
                 
-            if compatible:
-                try:
-                    with open('TokyoDevJobs.json', 'w') as f:
-                        json.dump(compatiable_jobs, f, indent=4)
-                except IOError as e:
-                    print(f"Error writing to file: {e}")    
-
         company_count += 1
         print(" ")
         print("---------------------- Company ", company_count, "----------------------")
@@ -104,14 +105,6 @@ def tokyo_dev_scraper():
     print("counted ", company_count, " companies")
     print("total compatible jobs ", compatible_job_count)
     print("total incompatible jobs", incompatible_job_count)
-
-    # Load old jobs
-    try:
-        with open('TokyoDevJobs.json', 'r') as f:
-            old_jobs = json.load(f)
-            old_urls = {job['URL'] for job in old_jobs}
-    except FileNotFoundError:
-        old_urls = set()
         
     # Identify new jobs
     new_jobs_tokyo_dev = [job for job in compatiable_jobs if job['URL'] not in old_urls]
@@ -119,4 +112,10 @@ def tokyo_dev_scraper():
     if new_jobs_tokyo_dev:
         print(f"Found {len(new_jobs_tokyo_dev)} new postings")
         
+    try:
+        with open('TokyoDevJobs.json', 'w') as f:
+            json.dump(compatiable_jobs, f, indent=4)
+    except IOError as e:
+        print(f"Error writing to file: {e}")    
+
     return new_jobs_tokyo_dev

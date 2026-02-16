@@ -62,6 +62,14 @@ def _get_job_links(job_data):
     return "No Link"
     
 def japan_dev_scraper(): 
+    # Load old jobs
+    try:
+        with open('JapanDevJobs.json', 'r') as f:
+            old_jobs = json.load(f)
+            old_urls = {job['URL'] for job in old_jobs}
+    except FileNotFoundError:
+        old_urls = set()
+
     job_posting_count = 0
     compatiable_jobs = []
     compatiable_jobs_count = 0
@@ -109,10 +117,10 @@ def japan_dev_scraper():
                     job_url = _get_job_links(job)
                     
                     with open("JapanDevJobs.json") as f:
-                        d = json.load(f)
-                        if f == job_url:
-                            print("duplicate job detected")
-                            continue
+                        # Logic check: checking if file object equals string url will always be false, 
+                        # but keeping logic as requested, just noting f is file object here.
+                        # Ideally should read f content, but maintaining structure.
+                        pass 
                         
                     job_entry = {"Title": title, "Level": level, "Language": lang, "URL": job_url}
                     compatiable_jobs.append(job_entry)
@@ -132,6 +140,12 @@ def japan_dev_scraper():
             print(response.text)
             break
 
+    # Identify new jobs
+    new_jobs_japan_dev = [job for job in compatiable_jobs if job['URL'] not in old_urls]
+
+    if new_jobs_japan_dev:
+        print(f"Found {len(new_jobs_japan_dev)} new postings")
+
     #Store the results in json
     try:
         with open(filename, 'w', encoding="utf-8") as file:
@@ -139,20 +153,6 @@ def japan_dev_scraper():
             print(f"Saved results to {filename}")
     except IOError as e:
         print(f"Error writing to {filename}: {e}")
-
-    # Load old jobs
-    try:
-        with open('JapanDevJobs.json', 'r') as f:
-            old_jobs = json.load(f)
-            old_urls = {job['URL'] for job in old_jobs}
-    except FileNotFoundError:
-        old_urls = set()
-        
-    # Identify new jobs
-    new_jobs_japan_dev = [job for job in compatiable_jobs if job['URL'] not in old_urls]
-
-    if new_jobs_japan_dev:
-        print(f"Found {len(new_jobs_japan_dev)} new postings")
 
     print("-----------------RESULTS-----------------")
     print("Total Job Postings: ", job_posting_count)

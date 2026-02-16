@@ -21,7 +21,7 @@ def send_email(japan_dev, tokyo_dev):
     
     job_list_str_japan_dev = ""
     for job in japan_dev:
-        job_list_str_japan_dev += f"Title: {job['Title']}\n Level: {job['level']}\n {job['language']}\n URL: {job['URL']}\n\n"
+        job_list_str_japan_dev += f"Title: {job['Title']}\n Level: {job['Level']}\n {job['Language']}\n URL: {job['URL']}\n\n"
 
     
     msg = EmailMessage()
@@ -39,4 +39,3 @@ def send_email(japan_dev, tokyo_dev):
 
     except smtplib.SMTPException as error:
         print(f"Error: unable to send the email -> {error}")
-        
