@@ -1,5 +1,11 @@
 [
     {
+        "Title": "SRE (Platform and Reliability Engineering Division)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-sre-platform-and-reliability-engineering-division-tokyo-yl8q7o"
+    },
+    {
         "Title": "Full Stack Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -250,24 +256,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/tablecheck/tablecheck-data-operations-engineer-otv5y5"
-    },
-    {
-        "Title": "Software Engineer - Backend",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-software-engineer---backend-u04ghh"
-    },
-    {
-        "Title": "System Integration Engineer - Robotics",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-system-integration-engineer---robotics-ft3y86"
-    },
-    {
-        "Title": "Quality Assurance Engineer II - Robotics",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-quality-assurance-engineer-ii---robotics-ucqby2"
     },
     {
         "Title": "Founding Engineer",
