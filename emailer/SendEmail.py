@@ -14,6 +14,10 @@ smtp_port = 465
 # Create the email
 def send_email(japan_dev, tokyo_dev):
     
+    if not japan_dev and not tokyo_dev:
+        print("No new jobs found, not sending email")
+        return
+    
     # Convert jobs to string for EmailMessage requirments
     job_list_str_tokyo_dev = ""
     for job in tokyo_dev:
