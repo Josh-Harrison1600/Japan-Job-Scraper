@@ -1,5 +1,29 @@
 [
     {
+        "Title": "SRE, Platform and Reliability Engineering Division, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/site-reliability-engineer-platform-and-reliability-engineering-division-tokyo"
+    },
+    {
+        "Title": "Platform Engineer, Platform and Reliability Engineering Department",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/platform-engineer-platform-and-reliability-engineering-department"
+    },
+    {
+        "Title": "Engineering Manager, Business Platform Development Division, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/engineering-manager-business-platform-development-division-tokyo"
+    },
+    {
+        "Title": "Security Specialist (Product Security), CISO Office, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo"
+    },
+    {
+        "Title": "Principal Backend Engineer (Kotlin), Money Forward Cloud (Consolidated Accounting), Osaka",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/principal-backend-engineer-kotlin-money-forward-cloud-consolidated-accounting-osaka"
+    },
+    {
+        "Title": "Security Specialist - Product Security, Digital Bank",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-digital-bank"
+    },
+    {
         "Title": "Senior Ruby on Rails Developer",
         "URL": "https://www.tokyodev.com/companies/andpad/jobs/senior-ruby-on-rails-developer"
     },
@@ -58,30 +82,6 @@
     {
         "Title": "Automation QA Engineer",
         "URL": "https://www.tokyodev.com/companies/paypay/jobs/automation-qa-engineer"
-    },
-    {
-        "Title": "Platform Engineer, Platform and Reliability Engineering Department",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/platform-engineer-platform-and-reliability-engineering-department"
-    },
-    {
-        "Title": "Engineering Manager, Business Platform Development Division, Tokyo",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/engineering-manager-business-platform-development-division-tokyo"
-    },
-    {
-        "Title": "Security Specialist (Product Security), CISO Office, Tokyo",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo"
-    },
-    {
-        "Title": "Tech Lead, Platform Application Department, Tokyo",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/tech-lead-platform-application-department-tokyo"
-    },
-    {
-        "Title": "Principal Backend Engineer (Kotlin), Money Forward Cloud (Consolidated Accounting), Osaka",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/principal-backend-engineer-kotlin-money-forward-cloud-consolidated-accounting-osaka"
-    },
-    {
-        "Title": "Security Specialist - Product Security, Digital Bank",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-digital-bank"
     },
     {
         "Title": "Full stack AI-engineer",
@@ -268,7 +268,7 @@
         "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/backend-engineer"
     },
     {
-        "Title": "Database Administrator (DBA)",
+        "Title": "Platform Engineer (DB Specialist)",
         "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/database-administrator-dba"
     },
     {
