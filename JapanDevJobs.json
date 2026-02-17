@@ -1,5 +1,17 @@
 [
     {
+        "Title": "Data Operations Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/tablecheck/tablecheck-data-operations-engineer-otv5y5"
+    },
+    {
+        "Title": "Mechanical Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-mechanical-engineer-eahsxl"
+    },
+    {
         "Title": "SRE (Platform and Reliability Engineering Division)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -250,12 +262,6 @@
         "Level": "seniority_level_new_grad",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/hennge/hennge-global-internship-program-onsite-tokyo-japan-42q8i0"
-    },
-    {
-        "Title": "Data Operations Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/tablecheck/tablecheck-data-operations-engineer-otv5y5"
     },
     {
         "Title": "Founding Engineer",
