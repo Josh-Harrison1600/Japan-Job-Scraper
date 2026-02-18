@@ -1,5 +1,23 @@
 [
     {
+        "Title": "Full Stack Engineer",
+        "Level": "seniority_level_unknown",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/makeleaps/makeleaps-full-stack-engineer-8wtzax"
+    },
+    {
+        "Title": " Frontend Engineer ",
+        "Level": "seniority_level_junior",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/givery/givery--frontend-engineer-re3tv5"
+    },
+    {
+        "Title": "Cloud Platform Engineer (Kafka Specialist)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/paypay/paypay-cloud-platform-engineer-kafka-specialist-6wp3ya"
+    },
+    {
         "Title": "Data Operations Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -226,12 +244,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/axelspace/axelspace-axelglobe--japandev-06vjtj"
-    },
-    {
-        "Title": "Cloud Platform Engineer (Kafka Specialist)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay/paypay-cloud-platform-engineer-kafka-specialist-6wp3ya"
     },
     {
         "Title": "Frontend Engineer",
