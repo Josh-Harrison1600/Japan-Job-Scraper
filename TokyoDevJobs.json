@@ -1,5 +1,21 @@
 [
     {
+        "Title": "Senior Full-Stack Software Engineer",
+        "URL": "https://www.tokyodev.com/companies/visual-alpha/jobs/senior-full-stack-software-engineer"
+    },
+    {
+        "Title": "Frontend Engineer (HR Tech)",
+        "URL": "https://www.tokyodev.com/companies/givery/jobs/frontend-engineer-hr-tech"
+    },
+    {
+        "Title": "Backend Engineer (Scala)",
+        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala"
+    },
+    {
+        "Title": "Full Stack Engineer",
+        "URL": "https://www.tokyodev.com/companies/makeleaps/jobs/full-stack-engineer"
+    },
+    {
         "Title": "SRE, Platform and Reliability Engineering Division, Tokyo",
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/site-reliability-engineer-platform-and-reliability-engineering-division-tokyo"
     },
@@ -94,10 +110,6 @@
     {
         "Title": "Product Designer",
         "URL": "https://www.tokyodev.com/companies/scene/jobs/product-designer"
-    },
-    {
-        "Title": "Senior Full-Stack Software Engineer",
-        "URL": "https://www.tokyodev.com/companies/visual-alpha/jobs/senior-full-stack-software-engineer"
     },
     {
         "Title": "Experienced Mobile Application Engineer",
@@ -246,10 +258,6 @@
     {
         "Title": "Fullstack Engineer",
         "URL": "https://www.tokyodev.com/companies/wovn/jobs/fullstack-engineer"
-    },
-    {
-        "Title": "Backend Engineer (Scala)",
-        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala"
     },
     {
         "Title": "Automation QA Engineer",

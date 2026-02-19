@@ -1,5 +1,35 @@
 [
     {
+        "Title": "Robotics Systems Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-robotics-systems-engineer-8o58cz"
+    },
+    {
+        "Title": "Product Manager - ASRS (Automated Storage & Retrieval System)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-product-manager---asrs-automated-storage--retrieval-system-jvi5yp"
+    },
+    {
+        "Title": "Machine Learning Tech Lead - Post-Training for AI Characters",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/starley/starley-team-lead-machine-learning----post-training-for-ai-characters-60kcix"
+    },
+    {
+        "Title": "Product Designer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/starley/starley-product-designer-i9wz0n"
+    },
+    {
+        "Title": "Product Engineer \u2013 Mid-Level",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/starley/starley-software-engineer---backend-ekvm6j"
+    },
+    {
         "Title": "Full Stack Engineer",
         "Level": "seniority_level_unknown",
         "Language": "japanese_level_not_required",
@@ -282,34 +312,16 @@
         "URL": "https://japan-dev.com/jobs/carnot/carnot-founding-engineer-ymjfxg"
     },
     {
-        "Title": "Machine Learning Tech Lead - Post-Training for AI Characters",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/starley/starley-team-lead-machine-learning----post-training-for-ai-characters-60kcix"
-    },
-    {
         "Title": "Database Administrator",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/axelspace/axelspace-database-administrator-8ze94a"
     },
     {
-        "Title": "Product Designer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/starley/starley-product-designer-i9wz0n"
-    },
-    {
         "Title": "Frontend Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/paypay-card/paypay-card-frontend-engineer-sfw5i2"
-    },
-    {
-        "Title": "Product Engineer \u2013 Mid-Level",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/starley/starley-software-engineer---backend-ekvm6j"
     },
     {
         "Title": "Site Reliability Engineer",
