@@ -1,11 +1,35 @@
 [
     {
-        "Title": "Senior Full-Stack Software Engineer",
-        "URL": "https://www.tokyodev.com/companies/visual-alpha/jobs/senior-full-stack-software-engineer"
+        "Title": "Senior Embedded Software Systems Engineer - Robotics",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/senior-embedded-software-systems-engineer-robotics"
     },
     {
-        "Title": "Frontend Engineer (HR Tech)",
-        "URL": "https://www.tokyodev.com/companies/givery/jobs/frontend-engineer-hr-tech"
+        "Title": "Robotics Systems Engineer",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-systems-engineer"
+    },
+    {
+        "Title": "Technical Program Manager - Robotics Hardware Systems",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/technical-program-manager-robotics-hardware-systems"
+    },
+    {
+        "Title": "Software Engineer - Robotics Control Systems",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/software-engineer-robotics-control-systems"
+    },
+    {
+        "Title": "Technical Program Manager, Distributed Systems",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/technical-program-manager-distributed-systems"
+    },
+    {
+        "Title": "Robotics Software Engineer - Navigation",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-software-engineer"
+    },
+    {
+        "Title": "Senior Robotics Engineer - Localization & Perception",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/senior-robotics-engineer-localization-perception"
+    },
+    {
+        "Title": "Senior Full-Stack Software Engineer",
+        "URL": "https://www.tokyodev.com/companies/visual-alpha/jobs/senior-full-stack-software-engineer"
     },
     {
         "Title": "Backend Engineer (Scala)",
@@ -130,22 +154,6 @@
     {
         "Title": "Senior Software Engineer, Backend-Focused Full-Stack (Global Product Team)",
         "URL": "https://www.tokyodev.com/companies/caddi/jobs/senior-software-engineer-backend"
-    },
-    {
-        "Title": "Software Engineer - Robotics Control Systems",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/software-engineer-robotics-control-systems"
-    },
-    {
-        "Title": "Technical Program Manager, Distributed Systems",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/technical-program-manager-distributed-systems"
-    },
-    {
-        "Title": "Robotics Software Engineer - Navigation",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-software-engineer"
-    },
-    {
-        "Title": "Senior Robotics Engineer - Localization & Perception",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/senior-robotics-engineer-localization-perception"
     },
     {
         "Title": "Security Engineer",

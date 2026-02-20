@@ -1,5 +1,23 @@
 [
     {
+        "Title": "Product SRE (PRE Division Product SRE Department 1)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-product-sre-pre-division-product-sre-department-1-tokyo-fo67m8"
+    },
+    {
+        "Title": "Full Stack Software Engineering Internship (Onsite Tokyo, Japan)",
+        "Level": "seniority_level_new_grad",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/hennge/hennge-global-internship-program-onsite-tokyo-japan-42q8i0"
+    },
+    {
+        "Title": "Front-end Engineering Internship (Onsite Tokyo, Japan)",
+        "Level": "seniority_level_new_grad",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/hennge/hennge-front-end-engineering-internship-onsite-tokyo-japan-8lbfyd"
+    },
+    {
         "Title": "Robotics Systems Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -34,12 +52,6 @@
         "Level": "seniority_level_unknown",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/makeleaps/makeleaps-full-stack-engineer-8wtzax"
-    },
-    {
-        "Title": " Frontend Engineer ",
-        "Level": "seniority_level_junior",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/givery/givery--frontend-engineer-re3tv5"
     },
     {
         "Title": "Cloud Platform Engineer (Kafka Specialist)",
@@ -180,12 +192,6 @@
         "URL": "https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe"
     },
     {
-        "Title": "Front-end Engineering Internship (Onsite Tokyo, Japan)",
-        "Level": "seniority_level_new_grad",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/hennge/hennge-front-end-engineering-internship-onsite-tokyo-japan-8lbfyd"
-    },
-    {
         "Title": "IOS/Android App Development Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
@@ -298,12 +304,6 @@
         "Level": "seniority_level_unknown",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/meetsmore/meetsmore-senior--lead-setqa-engineer-u6tk67"
-    },
-    {
-        "Title": "Full Stack Software Engineering Internship (Onsite Tokyo, Japan)",
-        "Level": "seniority_level_new_grad",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/hennge/hennge-global-internship-program-onsite-tokyo-japan-42q8i0"
     },
     {
         "Title": "Founding Engineer",
