@@ -1,5 +1,11 @@
 [
     {
+        "Title": "Full Stack Engineer (Python, TypeScript)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/givery/givery-full-stack-engineer--python-typescript-skii0g"
+    },
+    {
         "Title": "Product SRE (PRE Division Product SRE Department 1)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -244,12 +250,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/paypay-securities/paypay-securities-cloud-infrastructure-engineer-lulkjk"
-    },
-    {
-        "Title": "Principal Backend Engineer (Money Forward Cloud, Osaka)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-principalbackend-engineer--money-forward-cloud-osakajapandev-ex1tgp"
     },
     {
         "Title": "Product Security Engineer (Infrastructure)",
