@@ -1,15 +1,15 @@
 [
     {
+        "Title": "Service Robot System Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-service-robot-system-engineer-xvb5eu"
+    },
+    {
         "Title": "Frontend Engineer (React Native)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/mujin/mujin-frontend-engineerandroid-heavy-react-secondary-68n4i2"
-    },
-    {
-        "Title": "Senior / Lead SET / QA Engineer",
-        "Level": "seniority_level_unknown",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/meetsmore/meetsmore-senior--lead-setqa-engineer-u6tk67"
     },
     {
         "Title": "Full Stack Engineer (Python, TypeScript)",
@@ -304,12 +304,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/paypay/paypay-automation-qa-engineer-qhtqvf"
-    },
-    {
-        "Title": "Founding Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/carnot/carnot-founding-engineer-ymjfxg"
     },
     {
         "Title": "Database Administrator",
