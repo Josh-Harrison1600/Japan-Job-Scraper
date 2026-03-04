@@ -1,5 +1,23 @@
 [
     {
+        "Title": "Frontend Design Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r"
+    },
+    {
+        "Title": "Growth Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/metanomaly/metanomaly-growth-engineer-saozy2"
+    },
+    {
+        "Title": "Software Engineer (Go / Web Dev)",
+        "Level": "seniority_level_junior",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/hennge/hennge-junior-software-engineer-go-wen-ssoq2l"
+    },
+    {
         "Title": "Service Robot System Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -138,12 +156,6 @@
         "URL": "https://japan-dev.com/jobs/mujin/mujin-robotics-algorithm-engineer-c--optimization-ucibvn"
     },
     {
-        "Title": "Growth Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r"
-    },
-    {
         "Title": "UI/UX Designer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -240,12 +252,6 @@
         "URL": "https://japan-dev.com/jobs/givery/givery-backend-engineer-scala-nruzwd"
     },
     {
-        "Title": "Software Engineer (Go / Web Dev)",
-        "Level": "seniority_level_junior",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/hennge/hennge-junior-software-engineer-go-wen-ssoq2l"
-    },
-    {
         "Title": "Cloud Infrastructure Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -298,12 +304,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/paypay/paypay-automation-qa-engineer-qhtqvf"
-    },
-    {
-        "Title": "Database Administrator",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/axelspace/axelspace-database-administrator-8ze94a"
     },
     {
         "Title": "Frontend Engineer",
