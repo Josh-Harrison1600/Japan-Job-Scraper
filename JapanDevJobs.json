@@ -1,5 +1,17 @@
 [
     {
+        "Title": "Senior Backend Engineer (Architect Department)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-senior-backend-engineer-architect-department-tokyo-u8r2y7"
+    },
+    {
+        "Title": "Mid or Higher - Full Stack Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/interfirm/katix-mid-or-higher---full-stack-engineer-pqs5ll"
+    },
+    {
         "Title": "Frontend Design Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -10,6 +22,24 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/metanomaly/metanomaly-growth-engineer-saozy2"
+    },
+    {
+        "Title": "Machine Learning Tech Lead - Post-Training for AI Characters",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/starley/starley-team-lead-machine-learning----post-training-for-ai-characters-60kcix"
+    },
+    {
+        "Title": "Product Designer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/starley/starley-product-designer-i9wz0n"
+    },
+    {
+        "Title": "Product Engineer \u2013 Mid-Level",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/starley/starley-software-engineer---backend-ekvm6j"
     },
     {
         "Title": "Software Engineer (Go / Web Dev)",
@@ -66,24 +96,6 @@
         "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-product-manager---asrs-automated-storage--retrieval-system-jvi5yp"
     },
     {
-        "Title": "Machine Learning Tech Lead - Post-Training for AI Characters",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/starley/starley-team-lead-machine-learning----post-training-for-ai-characters-60kcix"
-    },
-    {
-        "Title": "Product Designer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/starley/starley-product-designer-i9wz0n"
-    },
-    {
-        "Title": "Product Engineer \u2013 Mid-Level",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/starley/starley-software-engineer---backend-ekvm6j"
-    },
-    {
         "Title": "Full Stack Engineer",
         "Level": "seniority_level_unknown",
         "Language": "japanese_level_not_required",
@@ -118,12 +130,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-full-stack-engineer-sliy8x"
-    },
-    {
-        "Title": "Senior Backend Engineer (Architect Department)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-senior-backend-engineer-architect-department-tokyo-u8r2y7"
     },
     {
         "Title": "Software x Discover Engineer",
