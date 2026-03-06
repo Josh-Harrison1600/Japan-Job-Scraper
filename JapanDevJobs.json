@@ -1,5 +1,17 @@
 [
     {
+        "Title": "Entra ID and ID Management Specialist, Digital Bank, Tokyo",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-entra-id-and-id-management-specialist-digital-bank-tokyo-6effrn"
+    },
+    {
+        "Title": "Device Management Specialist (Digital Bank - Tokyo)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-device-management-specialist-digital-bank-tokyo-b9kvx6"
+    },
+    {
         "Title": "Senior Backend Engineer (Architect Department)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -40,12 +52,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/starley/starley-software-engineer---backend-ekvm6j"
-    },
-    {
-        "Title": "Software Engineer (Go / Web Dev)",
-        "Level": "seniority_level_junior",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/hennge/hennge-junior-software-engineer-go-wen-ssoq2l"
     },
     {
         "Title": "Service Robot System Engineer",
@@ -172,12 +178,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/ikhor/kamikai-founding-designer-ymsp9d"
-    },
-    {
-        "Title": "Security Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/zeals/zeals-security-engineer-9u6uc2"
     },
     {
         "Title": "Backend Developer",
