@@ -1,5 +1,17 @@
 [
     {
+        "Title": "Senior Software Engineer (C++ & Python)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/mujin/mujin-senior-software-engineer-wes--fm-uhpwd5"
+    },
+    {
+        "Title": "Robotics Algorithm Engineer (C++ / Optimization)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/mujin/mujin-robotics-algorithm-engineer-c--optimization-ucibvn"
+    },
+    {
         "Title": "Lead Mobile X Discovery Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -168,12 +180,6 @@
         "URL": "https://japan-dev.com/jobs/polymer-capital/polymer-capital-c-developer-analystassociate-risk--quant-analytics-isd513"
     },
     {
-        "Title": "Robotics Algorithm Engineer (C++ / Optimization)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/mujin/mujin-robotics-algorithm-engineer-c--optimization-ucibvn"
-    },
-    {
         "Title": "UI/UX Designer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -208,12 +214,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/money-forward/money-forward-security-specialist-ciso-office-tokyojapandev-o27pc7"
-    },
-    {
-        "Title": "Senior Software Engineer (C++ & Python)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/mujin/mujin-senior-software-engineer-wes--fm-uhpwd5"
     },
     {
         "Title": "Senior Full Stack Engineer",
