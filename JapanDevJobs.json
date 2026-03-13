@@ -1,5 +1,17 @@
 [
     {
+        "Title": "Engineering Manager",
+        "Level": "seniority_level_unknown",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/rapyuta-robotics/rapyuta-robotics-engineering-manager-llw2j8"
+    },
+    {
+        "Title": "Mid or Higher - Full Stack Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/interfirm/katix-mid-or-higher---full-stack-engineer-pqs5ll"
+    },
+    {
         "Title": "Senior Software Engineer (Backend/Infrastructure) - HENNGE Secure Transfer",
         "Level": "seniority_level_unknown",
         "Language": "japanese_level_not_required",
@@ -40,12 +52,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/money-forward/money-forward-senior-backend-engineer-architect-department-tokyo-u8r2y7"
-    },
-    {
-        "Title": "Mid or Higher - Full Stack Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/interfirm/katix-mid-or-higher---full-stack-engineer-pqs5ll"
     },
     {
         "Title": "Frontend Design Engineer",
