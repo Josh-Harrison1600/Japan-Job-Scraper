@@ -34,6 +34,10 @@ def tokyo_dev_scraper():
     soup = BeautifulSoup(page.content, "html.parser")
     root_job_element = soup.find("ul", class_="relative list-inside")
 
+    if root_job_element is None:
+        print("ERROR: Could not find 'root_job_element'")
+        return []
+
     # Load old jobs
     try:
         with open('TokyoDevJobs.json', 'r') as f:
