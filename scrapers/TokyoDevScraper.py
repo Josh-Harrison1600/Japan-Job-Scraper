@@ -5,12 +5,6 @@ from scrapers.helpers.JapanDevSettings import HEADERS
 
 HOME_URL = "https://www.tokyodev.com"
 JOBS_URL = "https://www.tokyodev.com/jobs"
-page = requests.get(JOBS_URL, headers=HEADERS)
-print(f"DEBUG: Status Code: {page.status_code}")
-print(f"DEBUG: Content Length: {len(page.content)}")
-
-soup = BeautifulSoup(page.content, "html.parser")
-root_job_element = soup.find("ul", class_="relative list-inside")
 
 def safety_check(element, output):
     if element:
@@ -33,6 +27,13 @@ def url_safety_check(element, URL):
     
 # List through the job names
 def tokyo_dev_scraper():
+    page = requests.get(JOBS_URL, headers=HEADERS)
+    print(f"DEBUG: Status Code: {page.status_code}")
+    print(f"DEBUG: Content Length: {len(page.content)}")
+
+    soup = BeautifulSoup(page.content, "html.parser")
+    root_job_element = soup.find("ul", class_="relative list-inside")
+
     # Load old jobs
     try:
         with open('TokyoDevJobs.json', 'r') as f:
