@@ -1,10 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+from JapanDevSettings import HEADERS
 
 HOME_URL = "https://www.tokyodev.com"
 JOBS_URL = "https://www.tokyodev.com/jobs"
-page = requests.get(JOBS_URL)
+page = requests.get(JOBS_URL, headers=HEADERS)
+print(f"DEBUG: Status Code: {page.status_code}")
+print(f"DEBUG: Content Length: {len(page.content)}")
 
 soup = BeautifulSoup(page.content, "html.parser")
 root_job_element = soup.find("ul", class_="relative list-inside")

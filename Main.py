@@ -1,3 +1,4 @@
+import sys
 from scrapers.JapanDevScraper import japan_dev_scraper
 from scrapers.TokyoDevScraper import tokyo_dev_scraper
 from emailer.SendEmail import send_email
