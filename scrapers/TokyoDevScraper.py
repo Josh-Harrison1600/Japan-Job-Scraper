@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from JapanDevSettings import HEADERS
+from scrapers.helpers.JapanDevSettings import HEADERS
 
 HOME_URL = "https://www.tokyodev.com"
 JOBS_URL = "https://www.tokyodev.com/jobs"
