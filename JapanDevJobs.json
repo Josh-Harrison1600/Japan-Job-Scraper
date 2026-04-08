@@ -1,5 +1,17 @@
 [
     {
+        "Title": "Customer Integration Engineer",
+        "Level": "seniority_level_unknown",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/wayve-ai/wayve-ai-customer-integration-engineer-gqpiiu"
+    },
+    {
+        "Title": "Site Reliability Engineer",
+        "Level": "seniority_level_unknown",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/wayve-ai/wayve-ai-site-reliability-engineer-j4o5nd"
+    },
+    {
         "Title": "Quantum Researcher(Experimental)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -256,12 +268,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/paypay/paypay-product-security-engineer-infrastructure-esmz9y"
-    },
-    {
-        "Title": "Senior Full-Stack Software Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/visual-alpha/visual-alpha-senior-software-engineer-dxw8c7"
     },
     {
         "Title": "SRE (Digital Bank)",
