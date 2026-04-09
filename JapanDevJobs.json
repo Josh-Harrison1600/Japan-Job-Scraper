@@ -1,5 +1,17 @@
 [
     {
+        "Title": "Quantum Control Software/Embedded Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/qubitcore/qubitcore-quantum-control-softwareembedded-engineer-ypoj4a"
+    },
+    {
+        "Title": "Quantum Hardware Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/qubitcore/qubitcore-quantum-hardware-engineer-f1siz4"
+    },
+    {
         "Title": "Customer Integration Engineer",
         "Level": "seniority_level_unknown",
         "Language": "japanese_level_not_required",
@@ -12,7 +24,7 @@
         "URL": "https://japan-dev.com/jobs/wayve-ai/wayve-ai-site-reliability-engineer-j4o5nd"
     },
     {
-        "Title": "Quantum Researcher(Experimental)",
+        "Title": "Quantum Researcher (Experimental)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/qubitcore/qubitcore-quantum-researcherexperimental-hcfu5o"
