@@ -1,5 +1,29 @@
 [
     {
+        "Title": "Growth Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/metanomaly/metanomaly-growth-engineer-saozy2"
+    },
+    {
+        "Title": "Frontend Design Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r"
+    },
+    {
+        "Title": "Senior Full Stack Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe"
+    },
+    {
+        "Title": "Senior Frontend Engineer (Svelte) -  HENNGE Tadrill Team",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/hennge/hennge-senior-frontend-engineer-svelte----hennge-tadrill-team-qrygiz"
+    },
+    {
         "Title": "Quantum Control Software/Embedded Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -100,18 +124,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/money-forward/money-forward-device-management-specialist-digital-bank-tokyo-b9kvx6"
-    },
-    {
-        "Title": "Frontend Design Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r"
-    },
-    {
-        "Title": "Growth Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/metanomaly/metanomaly-growth-engineer-saozy2"
     },
     {
         "Title": "Machine Learning Tech Lead - Post-Training for AI Characters",
@@ -232,12 +244,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/money-forward/money-forward-security-specialist-ciso-office-tokyojapandev-o27pc7"
-    },
-    {
-        "Title": "Senior Full Stack Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe"
     },
     {
         "Title": "IOS/Android App Development Engineer",
