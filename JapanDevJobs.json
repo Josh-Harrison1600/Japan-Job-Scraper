@@ -1,5 +1,11 @@
 [
     {
+        "Title": "Senior Full Stack Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe"
+    },
+    {
         "Title": "Growth Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -10,12 +16,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r"
-    },
-    {
-        "Title": "Senior Full Stack Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe"
     },
     {
         "Title": "Senior Frontend Engineer (Svelte) -  HENNGE Tadrill Team",
