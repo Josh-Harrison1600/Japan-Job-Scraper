@@ -1,9 +1,33 @@
 [
     {
+        "Title": "Quantum Theoretical Researcher(AMO)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/qubitcore/qubitcore-quantum-theoretical-researcheramo-h3g0zg"
+    },
+    {
+        "Title": "Quantum Theoretical Researcher(Quantum Error Correction)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/qubitcore/qubitcore-quantum-theoretical-researcherquantum-error-correction-eb3dce"
+    },
+    {
+        "Title": "AI Engineer (VLAs)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-ai-engineer-vlas-37izrg"
+    },
+    {
         "Title": "Senior Full Stack Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/ikhor/ikhor-senior-full-stack-engineer-metfhe"
+    },
+    {
+        "Title": "Site Reliability Engineer",
+        "Level": "seniority_level_unknown",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/wayve-ai/wayve-ai-site-reliability-engineer-j4o5nd"
     },
     {
         "Title": "Growth Engineer",
@@ -40,12 +64,6 @@
         "Level": "seniority_level_unknown",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/wayve-ai/wayve-ai-customer-integration-engineer-gqpiiu"
-    },
-    {
-        "Title": "Site Reliability Engineer",
-        "Level": "seniority_level_unknown",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/wayve-ai/wayve-ai-site-reliability-engineer-j4o5nd"
     },
     {
         "Title": "Quantum Researcher (Experimental)",
