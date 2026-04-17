@@ -1,5 +1,23 @@
 [
     {
+        "Title": "Earth Observation Data Scientist",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/axelspace/axelspace-earth-observation-data-scientist-9s0x5x"
+    },
+    {
+        "Title": "Growth Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/metanomaly/metanomaly-growth-engineer-saozy2"
+    },
+    {
+        "Title": "Frontend Design Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r"
+    },
+    {
         "Title": "Quantum Theoretical Researcher(AMO)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -28,18 +46,6 @@
         "Level": "seniority_level_unknown",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/wayve-ai/wayve-ai-site-reliability-engineer-j4o5nd"
-    },
-    {
-        "Title": "Growth Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/metanomaly/metanomaly-growth-engineer-saozy2"
-    },
-    {
-        "Title": "Frontend Design Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/metanomaly/mewtant-growth-engineer-so4y2r"
     },
     {
         "Title": "Senior Frontend Engineer (Svelte) -  HENNGE Tadrill Team",
@@ -178,12 +184,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/givery/givery-full-stack-engineer--python-typescript-skii0g"
-    },
-    {
-        "Title": "Product SRE (PRE Division Product SRE Department 1)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/money-forward/money-forward-product-sre-pre-division-product-sre-department-1-tokyo-fo67m8"
     },
     {
         "Title": "Full Stack Software Engineering Internship (Onsite Tokyo, Japan)",
