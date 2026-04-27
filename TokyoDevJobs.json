@@ -1,5 +1,37 @@
 [
     {
+        "Title": "C++ Developer",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/c-developer"
+    },
+    {
+        "Title": "Engineering Manager",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/engineering-manager"
+    },
+    {
+        "Title": "Senior Embedded Software Systems Engineer - Robotics",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/senior-embedded-software-systems-engineer-robotics"
+    },
+    {
+        "Title": "Robotics Systems Engineer",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-systems-engineer"
+    },
+    {
+        "Title": "Product Manager - ASRS (Automated Storage & Retrieval System)",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/product-manager-asrs-automated-storage-retrieval-system"
+    },
+    {
+        "Title": "Software Engineer - Robotics Control Systems",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/software-engineer-robotics-control-systems"
+    },
+    {
+        "Title": "Robotics Software Engineer - Navigation",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-software-engineer"
+    },
+    {
+        "Title": "Robotics Software Engineer - Localization & Perception",
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/senior-robotics-engineer-localization-perception"
+    },
+    {
         "Title": "Senior Full Stack Engineer",
         "URL": "https://www.tokyodev.com/companies/kamikai/jobs/senior-full-stack-engineer"
     },
@@ -88,10 +120,6 @@
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo"
     },
     {
-        "Title": "Software Architect, ERP Cross-Functional Engineering Department, Tokyo",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/staff-engineer-technical-architect-erp-cross-functional-engineering-division-tokyo"
-    },
-    {
         "Title": "Senior Software Engineer, Money Forward Cloud, Fukuoka",
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/senior-software-engineer-money-forward-cloud-fukuoka-af677db1-c2cb-4d86-886c-cd77430ad611"
     },
@@ -162,34 +190,6 @@
     {
         "Title": "Enterprise AI Security Engineer",
         "URL": "https://www.tokyodev.com/companies/mercari/jobs/enterprise-ai-security-engineer"
-    },
-    {
-        "Title": "Engineering Manager",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/engineering-manager"
-    },
-    {
-        "Title": "Senior Embedded Software Systems Engineer - Robotics",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/senior-embedded-software-systems-engineer-robotics"
-    },
-    {
-        "Title": "Robotics Systems Engineer",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-systems-engineer"
-    },
-    {
-        "Title": "Product Manager - ASRS (Automated Storage & Retrieval System)",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/product-manager-asrs-automated-storage-retrieval-system"
-    },
-    {
-        "Title": "Software Engineer - Robotics Control Systems",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/software-engineer-robotics-control-systems"
-    },
-    {
-        "Title": "Robotics Software Engineer - Navigation",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/robotics-software-engineer"
-    },
-    {
-        "Title": "Robotics Software Engineer - Localization & Perception",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/senior-robotics-engineer-localization-perception"
     },
     {
         "Title": "Experienced Mobile Application Engineer",
