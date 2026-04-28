@@ -1,7 +1,23 @@
 [
     {
+        "Title": "Satellite Systems Engineer",
+        "URL": "https://www.tokyodev.com/companies/synspective/jobs/satellite-systems-engineer"
+    },
+    {
+        "Title": "Mid-level/Senior AOCS Engineer",
+        "URL": "https://www.tokyodev.com/companies/synspective/jobs/senior-aocs-engineer"
+    },
+    {
+        "Title": "Tech Lead, Backend-Focused Full-Stack (Global Product Team)",
+        "URL": "https://www.tokyodev.com/companies/caddi/jobs/tech-lead-backend-focused-full-stack-global-product-team"
+    },
+    {
+        "Title": "Full Stack Developer",
+        "URL": "https://www.tokyodev.com/companies/piece/jobs/full-stack-developer"
+    },
+    {
         "Title": "C++ Developer",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/c-developer"
+        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/c-plus-plus-developer"
     },
     {
         "Title": "Engineering Manager",
@@ -92,14 +108,6 @@
         "URL": "https://www.tokyodev.com/companies/hennge/jobs/global-intern"
     },
     {
-        "Title": "Senior Software Engineer in Test (Global Product Team)",
-        "URL": "https://www.tokyodev.com/companies/caddi/jobs/qa-engineering-lead-senior-software-engineer-in-test-global-product-team"
-    },
-    {
-        "Title": "Tech Lead, Backend-Focused Full-Stack (Global Product Team)",
-        "URL": "https://www.tokyodev.com/companies/caddi/jobs/tech-lead-backend-focused-full-stack-global-product-team"
-    },
-    {
         "Title": "IAM Engineer (Identity Platform), Money Forward Cloud, ID Platform Group",
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/iam-engineer-identity-platform-money-forward-cloud-id-platform-group"
     },
@@ -154,10 +162,6 @@
     {
         "Title": "Senior Android Developer",
         "URL": "https://www.tokyodev.com/companies/komoju/jobs/senior-android-developer"
-    },
-    {
-        "Title": "Mid-level/Senior AOCS Engineer",
-        "URL": "https://www.tokyodev.com/companies/synspective/jobs/senior-aocs-engineer"
     },
     {
         "Title": "Lead Full-Stack Engineer (Chinese Speaking)",
@@ -298,9 +302,5 @@
     {
         "Title": "Product Designer",
         "URL": "https://www.tokyodev.com/companies/scene/jobs/product-designer"
-    },
-    {
-        "Title": "Full Stack Developer",
-        "URL": "https://www.tokyodev.com/companies/piece/jobs/full-stack-developer"
     }
 ]
