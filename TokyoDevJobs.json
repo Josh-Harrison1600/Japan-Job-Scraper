@@ -1,5 +1,9 @@
 [
     {
+        "Title": "Product Designer",
+        "URL": "https://www.tokyodev.com/companies/scene/jobs/product-designer"
+    },
+    {
         "Title": "Satellite Systems Engineer",
         "URL": "https://www.tokyodev.com/companies/synspective/jobs/satellite-systems-engineer"
     },
@@ -152,10 +156,6 @@
         "URL": "https://www.tokyodev.com/companies/komoju/jobs/backend-engineer-ruby"
     },
     {
-        "Title": "Senior Application Security Engineer",
-        "URL": "https://www.tokyodev.com/companies/komoju/jobs/senior-application-security-engineer-79ea00ea-bc10-4374-8b0f-a7cf73a6847f"
-    },
-    {
         "Title": "Senior Site Reliability Engineer (SRE)",
         "URL": "https://www.tokyodev.com/companies/komoju/jobs/senior-site-reliability-engineer-sre"
     },
@@ -294,9 +294,5 @@
     {
         "Title": "Applied LLM Researcher",
         "URL": "https://www.tokyodev.com/companies/assethub/jobs/applied-llm-researcher"
-    },
-    {
-        "Title": "Product Designer",
-        "URL": "https://www.tokyodev.com/companies/scene/jobs/product-designer"
     }
 ]
