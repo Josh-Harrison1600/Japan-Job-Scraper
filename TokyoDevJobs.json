@@ -1,5 +1,9 @@
 [
     {
+        "Title": "Senior Ruby on Rails Developer",
+        "URL": "https://www.tokyodev.com/companies/andpad/jobs/senior-ruby-on-rails-developer"
+    },
+    {
         "Title": "QA Engineer - SDET, Money Forward Kessai Ltd., Tokyo",
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/qa-engineer-sdet-money-forward-kessai-ltd-tokyo"
     },
@@ -74,10 +78,6 @@
     {
         "Title": "Full Stack Developer",
         "URL": "https://www.tokyodev.com/companies/piece/jobs/full-stack-developer"
-    },
-    {
-        "Title": "C++ Developer",
-        "URL": "https://www.tokyodev.com/companies/rapyuta-robotics/jobs/c-plus-plus-developer"
     },
     {
         "Title": "Engineering Manager",
@@ -286,10 +286,6 @@
     {
         "Title": "Backend Engineer (Scala)",
         "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala"
-    },
-    {
-        "Title": "Senior Ruby on Rails Developer",
-        "URL": "https://www.tokyodev.com/companies/andpad/jobs/senior-ruby-on-rails-developer"
     },
     {
         "Title": "Full stack AI-engineer",
