@@ -1,5 +1,11 @@
 [
     {
+        "Title": "Frontend Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/paypay/paypay-frontend-engineer-el36re"
+    },
+    {
         "Title": "Service Robot System Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -312,12 +318,6 @@
         "URL": "https://japan-dev.com/jobs/givery/givery-backend-engineer-scala-nruzwd"
     },
     {
-        "Title": "Cloud Infrastructure Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay-securities/paypay-securities-cloud-infrastructure-engineer-lulkjk"
-    },
-    {
         "Title": "SRE (Digital Bank)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
@@ -334,12 +334,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/axelspace/axelspace-axelglobe--japandev-06vjtj"
-    },
-    {
-        "Title": "Frontend Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay/paypay-frontend-engineer-el36re"
     },
     {
         "Title": "Data Engineer, DaaS",
