@@ -1,5 +1,17 @@
 [
     {
+        "Title": "Backend Engineer / LINE Creators Market",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/ly-corporation/ly-corporation-backend-engineer--line-creators-market-tlpxyv"
+    },
+    {
+        "Title": "Automation QA Engineer",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/paypay-card/paypay-card-automation-qa-engineer-0uw6jl"
+    },
+    {
         "Title": "Frontend Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -316,12 +328,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/money-forward/money-forward-sre-digital-banktokyo-ksd9os"
-    },
-    {
-        "Title": "Automation QA Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/paypay-card/paypay-card-automation-qa-engineer-0uw6jl"
     },
     {
         "Title": "System Architect (AxelGlobe)",
