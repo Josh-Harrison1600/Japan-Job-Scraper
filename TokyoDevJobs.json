@@ -1,5 +1,45 @@
 [
     {
+        "Title": "QA Engineer, Workflow Platform Development Division, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/qa-engineer-workflow-platform-development-division-tokyo"
+    },
+    {
+        "Title": "QA Engineer - SDET, Money Forward Kessai Ltd., Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/qa-engineer-sdet-money-forward-kessai-ltd-tokyo"
+    },
+    {
+        "Title": "QA Engineer - SDET, Money Forward Kessai Ltd., Fukuoka",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/qa-engineer-sdet-money-forward-kessai-ltd-fukuoka"
+    },
+    {
+        "Title": "IAM Engineer (Identity Platform), Money Forward Cloud, ID Platform Group",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/iam-engineer-identity-platform-money-forward-cloud-id-platform-group"
+    },
+    {
+        "Title": "AI Engineer, ERP Cross-Functional Engineering Department, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/ai-engineer-erp-cross-functional-engineering-department-tokyo"
+    },
+    {
+        "Title": "Device Management Specialist, Digital Bank, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/device-management-specialist-digital-bank-tokyo"
+    },
+    {
+        "Title": "Platform Engineer, Platform and Reliability Engineering Department",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/platform-engineer-platform-and-reliability-engineering-department"
+    },
+    {
+        "Title": "Security Specialist (Product Security), CISO Office, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo"
+    },
+    {
+        "Title": "Senior Software Engineer, Money Forward Cloud, Tokyo/Fukuoka",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/senior-software-engineer-money-forward-cloud-fukuoka-af677db1-c2cb-4d86-886c-cd77430ad611"
+    },
+    {
+        "Title": "Security Specialist - Product Security, Digital Bank",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-digital-bank"
+    },
+    {
         "Title": "Member of Technical Staff - Systems",
         "URL": "https://www.tokyodev.com/companies/aiand/jobs/member-of-technical-staff-systems"
     },
@@ -40,42 +80,6 @@
         "URL": "https://www.tokyodev.com/companies/andpad/jobs/senior-ruby-on-rails-developer"
     },
     {
-        "Title": "QA Engineer - SDET, Money Forward Kessai Ltd., Tokyo",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/qa-engineer-sdet-money-forward-kessai-ltd-tokyo"
-    },
-    {
-        "Title": "QA Engineer - SDET, Money Forward Kessai Ltd., Fukuoka",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/qa-engineer-sdet-money-forward-kessai-ltd-fukuoka"
-    },
-    {
-        "Title": "IAM Engineer (Identity Platform), Money Forward Cloud, ID Platform Group",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/iam-engineer-identity-platform-money-forward-cloud-id-platform-group"
-    },
-    {
-        "Title": "AI Engineer, ERP Cross-Functional Engineering Department, Tokyo",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/ai-engineer-erp-cross-functional-engineering-department-tokyo"
-    },
-    {
-        "Title": "Device Management Specialist, Digital Bank, Tokyo",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/device-management-specialist-digital-bank-tokyo"
-    },
-    {
-        "Title": "Platform Engineer, Platform and Reliability Engineering Department",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/platform-engineer-platform-and-reliability-engineering-department"
-    },
-    {
-        "Title": "Security Specialist (Product Security), CISO Office, Tokyo",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo"
-    },
-    {
-        "Title": "Senior Software Engineer, Money Forward Cloud, Tokyo/Fukuoka",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/senior-software-engineer-money-forward-cloud-fukuoka-af677db1-c2cb-4d86-886c-cd77430ad611"
-    },
-    {
-        "Title": "Security Specialist - Product Security, Digital Bank",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-digital-bank"
-    },
-    {
         "Title": "Research Scientist (Robotics)",
         "URL": "https://www.tokyodev.com/companies/ai-robot-association/jobs/research-scientist-robotics"
     },
@@ -106,14 +110,6 @@
     {
         "Title": "Mid-level/Senior AOCS Engineer",
         "URL": "https://www.tokyodev.com/companies/synspective/jobs/senior-aocs-engineer"
-    },
-    {
-        "Title": "Senior SRE, Global Product Team",
-        "URL": "https://www.tokyodev.com/companies/caddi/jobs/senior-sre-global-product-team"
-    },
-    {
-        "Title": "Staff Software Engineer, Global Product Team",
-        "URL": "https://www.tokyodev.com/companies/caddi/jobs/tech-lead-backend-focused-full-stack-global-product-team"
     },
     {
         "Title": "Full Stack Developer",
@@ -258,10 +254,6 @@
     {
         "Title": "Experienced Mobile Application Engineer",
         "URL": "https://www.tokyodev.com/companies/scoville/jobs/experienced-mobile-application-engineer"
-    },
-    {
-        "Title": "Cross-Platform Engineer",
-        "URL": "https://www.tokyodev.com/companies/scoville/jobs/cross-platform-engineer"
     },
     {
         "Title": "Automation QA Engineer",
