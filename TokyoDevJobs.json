@@ -40,6 +40,14 @@
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-digital-bank"
     },
     {
+        "Title": "Full Stack Engineer (Python, TypeScript)",
+        "URL": "https://www.tokyodev.com/companies/givery/jobs/full-stack-engineer-python-typescript"
+    },
+    {
+        "Title": "Backend Engineer (Scala)",
+        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala"
+    },
+    {
         "Title": "Member of Technical Staff - Systems",
         "URL": "https://www.tokyodev.com/companies/aiand/jobs/member-of-technical-staff-systems"
     },
@@ -176,10 +184,6 @@
         "URL": "https://www.tokyodev.com/companies/hennge/jobs/senior-frontend-engineer-svelte-hennge-tadrill"
     },
     {
-        "Title": "Senior Software Engineer, Go / Backend HENNGE Email DLP",
-        "URL": "https://www.tokyodev.com/companies/hennge/jobs/senior-software-engineer-go-backend-hennge-email-dlp"
-    },
-    {
         "Title": "Senior Software Engineer (Backend/Infrastructure) - HENNGE Secure Transfer",
         "URL": "https://www.tokyodev.com/companies/hennge/jobs/senior-software-engineer-backend-infrastructure-hennge-secure-transfer"
     },
@@ -210,10 +214,6 @@
     {
         "Title": "Backend Engineer, Ruby",
         "URL": "https://www.tokyodev.com/companies/komoju/jobs/backend-engineer-ruby"
-    },
-    {
-        "Title": "Senior Site Reliability Engineer (SRE)",
-        "URL": "https://www.tokyodev.com/companies/komoju/jobs/senior-site-reliability-engineer-sre"
     },
     {
         "Title": "Senior Android Developer",
@@ -290,14 +290,6 @@
     {
         "Title": "Unreal Engine Game Programmer",
         "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/unreal-engine-game-programmer"
-    },
-    {
-        "Title": "Full Stack Engineer (Python, TypeScript)",
-        "URL": "https://www.tokyodev.com/companies/givery/jobs/full-stack-engineer-python-typescript"
-    },
-    {
-        "Title": "Backend Engineer (Scala)",
-        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala"
     },
     {
         "Title": "Full stack AI-engineer",
