@@ -1,7 +1,7 @@
 [
     {
         "Title": "Software Engineer (Product)",
-        "Level": "seniority_level_unknown",
+        "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/sakana-ai/sakana-ai-software-engineer-product-igixug"
     },
@@ -190,12 +190,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
         "URL": "https://japan-dev.com/jobs/money-forward/money-forward-device-management-specialist-digital-bank-tokyo-b9kvx6"
-    },
-    {
-        "Title": "Full Stack Engineer (Python, TypeScript)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_conversational",
-        "URL": "https://japan-dev.com/jobs/givery/givery-full-stack-engineer--python-typescript-skii0g"
     },
     {
         "Title": "Full Stack Software Engineering Internship (Onsite Tokyo, Japan)",
