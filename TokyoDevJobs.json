@@ -1,23 +1,15 @@
 [
     {
-        "Title": "Senior Data Science Engineer / Senior Machine Learning Engineer",
-        "URL": "https://www.tokyodev.com/companies/paypay/jobs/senior-data-science-engineer-senior-machine-learning-engineer-data-insights"
+        "Title": "Backend/Fullstack Engineer",
+        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-fullstack-engineer"
     },
     {
-        "Title": "Cloud Platform Engineer (DB Specialist)",
-        "URL": "https://www.tokyodev.com/companies/paypay/jobs/cloud-platform-engineer-db-specialist"
+        "Title": "Backend Engineer (Scala)",
+        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala"
     },
     {
-        "Title": "Backend Engineer",
-        "URL": "https://www.tokyodev.com/companies/paypay/jobs/backend-engineer-884fff6e-47a5-4bf3-b8b0-004a9a3d3c04"
-    },
-    {
-        "Title": "Automation QA Engineer",
-        "URL": "https://www.tokyodev.com/companies/paypay/jobs/automation-qa-engineer"
-    },
-    {
-        "Title": "QA Engineer, Workflow Platform Development Division, Tokyo",
-        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/qa-engineer-workflow-platform-development-division-tokyo"
+        "Title": "Lead Database Reliability Engineer, Platform and Reliability Engineering Division, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/lead-database-reliability-engineer-platform-and-reliability-engineering-division-tokyo"
     },
     {
         "Title": "QA Engineer - SDET, Money Forward Kessai Ltd., Tokyo",
@@ -56,44 +48,20 @@
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-digital-bank"
     },
     {
-        "Title": "Backend Engineer (Scala)",
-        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala"
+        "Title": "Senior Data Science Engineer / Senior Machine Learning Engineer",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/senior-data-science-engineer-senior-machine-learning-engineer-data-insights"
     },
     {
-        "Title": "Member of Technical Staff - Systems",
-        "URL": "https://www.tokyodev.com/companies/aiand/jobs/member-of-technical-staff-systems"
+        "Title": "Cloud Platform Engineer (DB Specialist)",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/cloud-platform-engineer-db-specialist"
     },
     {
-        "Title": "Member of Technical Staff - Post Training",
-        "URL": "https://www.tokyodev.com/companies/aiand/jobs/member-of-technical-staff-post-training"
+        "Title": "Backend Engineer",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/backend-engineer-884fff6e-47a5-4bf3-b8b0-004a9a3d3c04"
     },
     {
-        "Title": "Member of Technical Staff - Networking",
-        "URL": "https://www.tokyodev.com/companies/aiand/jobs/member-of-technical-staff-networking"
-    },
-    {
-        "Title": "Member of Technical Staff - Inference Serving",
-        "URL": "https://www.tokyodev.com/companies/aiand/jobs/member-of-technical-staff-inference-serving"
-    },
-    {
-        "Title": "Member of Technical Staff - Inference Optimization",
-        "URL": "https://www.tokyodev.com/companies/aiand/jobs/member-of-technical-staff-inference-optimization"
-    },
-    {
-        "Title": "Member of Technical Staff - Applied AI Engineer, Internal Tools",
-        "URL": "https://www.tokyodev.com/companies/aiand/jobs/member-of-technical-staff-applied-agentic-applied-ai-engineer-internal-tools"
-    },
-    {
-        "Title": "Member of Technical Staff - Applied & Agentic AI",
-        "URL": "https://www.tokyodev.com/companies/aiand/jobs/member-of-technical-staff-applied-agentic-ai"
-    },
-    {
-        "Title": "Compute - Forward Deployment Engineer",
-        "URL": "https://www.tokyodev.com/companies/aiand/jobs/compute-forward-deployment-engineer"
-    },
-    {
-        "Title": "AI - Forward Deployment Engineer",
-        "URL": "https://www.tokyodev.com/companies/aiand/jobs/ai-forward-deployment-engineer"
+        "Title": "Automation QA Engineer",
+        "URL": "https://www.tokyodev.com/companies/paypay/jobs/automation-qa-engineer"
     },
     {
         "Title": "Senior Ruby on Rails Developer",
@@ -110,6 +78,14 @@
     {
         "Title": "Product Designer",
         "URL": "https://www.tokyodev.com/companies/scene/jobs/product-designer"
+    },
+    {
+        "Title": "Data Architect",
+        "URL": "https://www.tokyodev.com/companies/gran-manibus/jobs/data-architect"
+    },
+    {
+        "Title": "Solution Architect",
+        "URL": "https://www.tokyodev.com/companies/gran-manibus/jobs/solution-architect"
     },
     {
         "Title": "Satellite Systems Engineer",

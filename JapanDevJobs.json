@@ -1,5 +1,11 @@
 [
     {
+        "Title": "Backend/Fullstack Engineer ",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/givery/givery-backendfullstack-engineer-eea6b9"
+    },
+    {
         "Title": "Embedded Software Development Engineer",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
@@ -280,12 +286,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/ai-robot-association/ai-robot-association-airoa-research-scientist-robotics-j3u51q"
-    },
-    {
-        "Title": "Backend Engineer (Scala)",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/givery/givery-backend-engineer-scala-nruzwd"
     },
     {
         "Title": "SRE (Digital Bank)",
