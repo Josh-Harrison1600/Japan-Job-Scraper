@@ -1,5 +1,25 @@
 [
     {
+        "Title": "Frontend Engineer-Junior/Mid",
+        "URL": "https://www.tokyodev.com/companies/restar/jobs/frontend-engineer-junior-mid"
+    },
+    {
+        "Title": "Software Engineer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/software-engineer"
+    },
+    {
+        "Title": "Game Server Programmer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/game-server-programmer"
+    },
+    {
+        "Title": "Video Game Engine Programmer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/video-game-engine-programmer"
+    },
+    {
+        "Title": "Unreal Engine Game Programmer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/unreal-engine-game-programmer"
+    },
+    {
         "Title": "QA Engineer, Workflow Platform Development Division, Nagoya",
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/qa-engineer-workflow-platform-development-division-nagoya"
     },
@@ -42,10 +62,6 @@
     {
         "Title": "Security Specialist - Product Security, Digital Bank",
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-digital-bank"
-    },
-    {
-        "Title": "Backend/Fullstack Engineer",
-        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-fullstack-engineer"
     },
     {
         "Title": "Backend Engineer (Scala)",
@@ -242,22 +258,6 @@
     {
         "Title": "Senior Backend Engineer",
         "URL": "https://www.tokyodev.com/companies/paypay-card-corporation/jobs/senior-backend-engineer"
-    },
-    {
-        "Title": "Software Engineer",
-        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/software-engineer"
-    },
-    {
-        "Title": "Game Server Programmer",
-        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/game-server-programmer"
-    },
-    {
-        "Title": "Video Game Engine Programmer",
-        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/video-game-engine-programmer"
-    },
-    {
-        "Title": "Unreal Engine Game Programmer",
-        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/unreal-engine-game-programmer"
     },
     {
         "Title": "Full stack AI-engineer",
