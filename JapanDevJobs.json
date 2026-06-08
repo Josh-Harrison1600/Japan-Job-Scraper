@@ -1,9 +1,9 @@
 [
     {
-        "Title": "Backend Engineer (Scala)",
+        "Title": "Software Engineer (Product)",
         "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/givery/givery-backend-engineer-scala-nruzwd"
+        "Language": "japanese_level_conversational",
+        "URL": "https://japan-dev.com/jobs/sakana-ai/sakana-ai-software-engineer-product-igixug"
     },
     {
         "Title": "Embedded Software Development Engineer",
@@ -34,12 +34,6 @@
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/mujin/mujin-release-engineer-developer-experience--devex-s1ysvi"
-    },
-    {
-        "Title": "Backend Engineer / LINE Creators Market",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/ly-corporation/ly-corporation-backend-engineer--line-creators-market-tlpxyv"
     },
     {
         "Title": "Automation QA Engineer",

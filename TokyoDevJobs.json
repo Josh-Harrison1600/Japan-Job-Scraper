@@ -1,19 +1,7 @@
 [
     {
-        "Title": "Software Engineer",
-        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/software-engineer"
-    },
-    {
-        "Title": "Game Server Programmer",
-        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/game-server-programmer"
-    },
-    {
-        "Title": "Video Game Engine Programmer",
-        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/video-game-engine-programmer"
-    },
-    {
-        "Title": "Unreal Engine Game Programmer",
-        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/unreal-engine-game-programmer"
+        "Title": "Engineering Manager (Data Platform), Money Forward X, Tokyo",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/engineering-manager-data-platform-money-forward-x-tokyo"
     },
     {
         "Title": "QA Engineer, Workflow Platform Development Division, Nagoya",
@@ -30,6 +18,10 @@
     {
         "Title": "QA Engineer - SDET, Money Forward Kessai Ltd., Fukuoka",
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/qa-engineer-sdet-money-forward-kessai-ltd-fukuoka"
+    },
+    {
+        "Title": "Product Reliability Engineer (CRE), Money Forward Cloud, Tokyo/Fukuoka",
+        "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/product-reliability-engineer-cre-money-forward-cloud-fukuoka"
     },
     {
         "Title": "IAM Engineer (Identity Platform), Money Forward Cloud, ID Platform Group",
@@ -52,7 +44,7 @@
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-ciso-office-tokyo"
     },
     {
-        "Title": "Senior Software Engineer, Money Forward Cloud, Tokyo/Fukuoka",
+        "Title": "Senior Full-Stack Engineer (Ruby), Money Forward Cloud, Tokyo/Fukuoka",
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/senior-software-engineer-money-forward-cloud-fukuoka-af677db1-c2cb-4d86-886c-cd77430ad611"
     },
     {
@@ -60,8 +52,20 @@
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/security-specialist-product-security-digital-bank"
     },
     {
-        "Title": "Backend Engineer (Scala)",
-        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-engineer-scala"
+        "Title": "Software Engineer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/software-engineer"
+    },
+    {
+        "Title": "Game Server Programmer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/game-server-programmer"
+    },
+    {
+        "Title": "Video Game Engine Programmer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/video-game-engine-programmer"
+    },
+    {
+        "Title": "Unreal Engine Game Programmer",
+        "URL": "https://www.tokyodev.com/companies/wizcorp/jobs/unreal-engine-game-programmer"
     },
     {
         "Title": "Senior Data Science Engineer / Senior Machine Learning Engineer",
@@ -226,10 +230,6 @@
     {
         "Title": "Fullstack Engineer",
         "URL": "https://www.tokyodev.com/companies/wovn/jobs/fullstack-engineer"
-    },
-    {
-        "Title": "Enterprise AI Security Engineer",
-        "URL": "https://www.tokyodev.com/companies/mercari/jobs/enterprise-ai-security-engineer"
     },
     {
         "Title": "Experienced Mobile Application Engineer",
