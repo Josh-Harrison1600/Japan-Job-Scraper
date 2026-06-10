@@ -1,5 +1,17 @@
 [
     {
+        "Title": "Embedded Software Development Engineer (Intermediate/Senior)",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/mujin/mujin-embedded-software-development-engineer-intermediatesenior-ubdaa8"
+    },
+    {
+        "Title": "Backend/Fullstack Engineer ",
+        "Level": "seniority_level_mid_level",
+        "Language": "japanese_level_not_required",
+        "URL": "https://japan-dev.com/jobs/givery/givery-backendfullstack-engineer-eea6b9"
+    },
+    {
         "Title": "Software Engineer (Product)",
         "Level": "seniority_level_mid_level",
         "Language": "japanese_level_conversational",
@@ -10,12 +22,6 @@
         "Level": "seniority_level_new_grad",
         "Language": "japanese_level_not_required",
         "URL": "https://japan-dev.com/jobs/hennge/hennge-global-internship-program-onsite-tokyo-japan-42q8i0"
-    },
-    {
-        "Title": "Embedded Software Development Engineer",
-        "Level": "seniority_level_mid_level",
-        "Language": "japanese_level_not_required",
-        "URL": "https://japan-dev.com/jobs/mujin/mujin-embedded-software-development-engineer-m8txwk"
     },
     {
         "Title": "Distributed AI Harness Engineer",

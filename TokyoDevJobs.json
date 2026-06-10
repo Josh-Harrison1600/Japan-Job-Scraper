@@ -1,5 +1,21 @@
 [
     {
+        "Title": "Senior Frontend Engineer",
+        "URL": "https://www.tokyodev.com/companies/noeon-research/jobs/senior-frontend-engineer"
+    },
+    {
+        "Title": "Senior Backend Engineer, Automated Reasoning",
+        "URL": "https://www.tokyodev.com/companies/noeon-research/jobs/senior-backend-engineer-automated-reasoning"
+    },
+    {
+        "Title": "Senior ML Engineer (LLMOps)",
+        "URL": "https://www.tokyodev.com/companies/noeon-research/jobs/senior-ml-engineer-llmops"
+    },
+    {
+        "Title": "Backend/Fullstack Engineer",
+        "URL": "https://www.tokyodev.com/companies/givery/jobs/backend-fullstack-engineer"
+    },
+    {
         "Title": "Engineering Manager (Data Platform), Money Forward X, Tokyo",
         "URL": "https://www.tokyodev.com/companies/moneyforward/jobs/engineering-manager-data-platform-money-forward-x-tokyo"
     },
@@ -242,10 +258,6 @@
     {
         "Title": "Senior Unity UI Engineer",
         "URL": "https://www.tokyodev.com/companies/limit-break/jobs/senior-unity-ui-engineer"
-    },
-    {
-        "Title": "Senior Software Engineer \u2013 QA Platform Development",
-        "URL": "https://www.tokyodev.com/companies/cybozu/jobs/senior-software-engineer-qa-platform-development"
     },
     {
         "Title": "Fullstack Engineer",
